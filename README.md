@@ -2,12 +2,12 @@
 
 ## 项目结构
 
+-  [log](LoRA_jittor/NLG/log) 文件夹包含了**每次实验的日志记录和loss曲线图**
 -  [src](LoRA_jittor/NLG/src) 文件夹包含了用于数据处理、训练以及解码的源代码。
 -  [eval](LoRA_jittor/NLG/eval) 文件夹包含了针对特定任务的评估脚本代码。
 -  [data](LoRA_jittor/NLG/data) 文件夹包含了实验所使用的小样本数据。
 -  [data_entire](LoRA_jittor/NLG/data_entire) 文件夹包含了完整的原始数据。
 -  [vocab](LoRA_jittor/NLG/vocab) 文件夹包含了 GPT-2 的词表文件。
--  [log](LoRA_jittor/NLG/log) 文件夹包含了每次实验的日志记录和loss曲线图
 
 ## 环境配置
 
