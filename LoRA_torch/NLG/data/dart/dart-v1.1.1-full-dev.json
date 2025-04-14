@@ -1,0 +1,4947 @@
+[
+  {
+    "tripleset": [
+      [
+        "Mars Hill College",
+        "JOINED",
+        "1973"
+      ],
+      [
+        "Mars Hill College",
+        "LOCATION",
+        "Mars Hill, North Carolina"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "A school from Mars Hill, North Carolina, joined in 1973."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Newberry College",
+        "NICKNAME",
+        "Wolves"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Newberry College's nickname is the wolves."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Presbyterian College",
+        "TYPE",
+        "Private"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Presbyterian College is a private school."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Queens University of Charlotte",
+        "NICKNAME",
+        "Royals"
+      ],
+      [
+        "Queens University of Charlotte",
+        "ENROLLMENT",
+        "2386"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The nickname of the school with an enrollment of 2,386 is the royals."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Inars Kivlenieks",
+        "COUNTRY",
+        "Latvia"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The Athlete is Inars Kivlenieks.The country is Latvia"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "New York",
+        "SWIMSUIT",
+        "8.713"
+      ],
+      [
+        "New York",
+        "EVENING_GOWN",
+        "8.400"
+      ],
+      [
+        "New York",
+        "AVERAGE",
+        "8.525"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "New York\t it 8.713 New York\t 8.525"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Atlanta",
+        "OFFICIAL_POPULATION",
+        "5,457,831"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "METROPOLITAN_AREA",
+        "Atlanta"
+      ],
+      [
+        "5,457,831",
+        "YEAR",
+        "2012"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "List of metropolitan areas by population"
+      ],
+      [
+        "Atlanta",
+        "COUNTRY",
+        "United States"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Metropolitan areas by population is Atlanta Country United States Official population is 5,457,831 ,2012"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Bogot\u00e1",
+        "COUNTRY",
+        "Colombia"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The Bogot\u00e1 metropolitan area is in Colombia."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "METROPOLITAN_AREA",
+        "Berlin"
+      ],
+      [
+        "Berlin",
+        "COUNTRY",
+        "Germany"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "List of metropolitan areas by population"
+      ],
+      [
+        "Berlin",
+        "OFFICIAL_POPULATION",
+        "5,097,712"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Berlin is a metropolitan area in Germany with an official population of 5,097,712."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1983-1984 season",
+        "JORNADA_OR_OTHER",
+        "2"
+      ],
+      [
+        "2",
+        "AWAY_TEAM",
+        "Am\u00e9rica"
+      ],
+      [
+        "2",
+        "HOME_TEAM",
+        "Chivas"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Chivas played against Am\u00e9rica in the 1983-1984 season."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Final Vuelta",
+        "RESULT",
+        "3-1"
+      ],
+      [
+        "Final Vuelta",
+        "HOME_TEAM",
+        "Am\u00e9rica"
+      ],
+      [
+        "Final Vuelta",
+        "DATE",
+        "10 June 1984"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "America earned a 3-1 victory in the second-leg final in 1984."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "24",
+        "DATE",
+        "11 January 1987"
+      ],
+      [
+        "24",
+        "HOME_TEAM",
+        "Chivas"
+      ],
+      [
+        "24",
+        "AWAY_TEAM",
+        "Am\u00e9rica"
+      ],
+      [
+        "24",
+        "RESULT",
+        "2-2"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "On 11 January 1987, Am\u00e9rica and Chivas drew 2-2."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "14",
+        "STADIUM",
+        "Estadio Jalisco"
+      ],
+      [
+        "14",
+        "RESULT",
+        "1-1"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The pair tied the score 1-1 at Estadio Jalisco."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Apertura 2006",
+        "JORNADA_OR_OTHER",
+        "Semifinals Ida"
+      ],
+      [
+        "Semifinals Ida",
+        "AWAY_TEAM",
+        "Am\u00e9rica"
+      ],
+      [
+        "Semifinals Ida",
+        "HOME_TEAM",
+        "Chivas"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Chivas and Am\u00e9rica will compete in the semifinals of the Apertura 2006 tournament."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1983-1984 season",
+        "JORNADA_OR_OTHER",
+        "21"
+      ],
+      [
+        "21",
+        "AWAY_TEAM",
+        "Chivas"
+      ],
+      [
+        "21",
+        "STADIUM",
+        "Estadio Azteca"
+      ],
+      [
+        "21",
+        "HOME_TEAM",
+        "Am\u00e9rica"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "El Cl\u00e1sico de Cl\u00e1sicos Season 1983\u20131984 Jornada  is 21 away team is Chivas Chivas Estadio Azteca"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Everything Man",
+        "TIME",
+        "3:16"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Everything Man is 3 minutes and 16 seconds long."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Eardrum (album)"
+      ],
+      [
+        "2",
+        "TITLE",
+        "NY Weather Report"
+      ],
+      [
+        "NY Weather Report",
+        "SONGWRITERS",
+        "Talib Kweli Greene"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "NUMBER",
+        "2"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Talib Kweli Green wrote NY Weather Report, the second song on Eardrum."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Say Something",
+        "PRODUCER(S)",
+        "will.i.am"
+      ],
+      [
+        "Say Something",
+        "PERFORMER(S)",
+        "Talib Kweli, Jean Grae"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "willi.i.am produced Say Something, performed by Talib Kweli and Jean Grae."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Eardrum (album)"
+      ],
+      [
+        "5",
+        "TITLE",
+        "Country Cousins"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "NUMBER",
+        "5"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Country Cousins is the fifth song on Eardrum."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Holy Moly",
+        "SAMPLES_AND_NOTES",
+        "Border Song (Holy Moses) by Aretha Franklin"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Holy Moly samples Border Song (Holy Moses) by Aretha Franklin."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "15",
+        "TITLE",
+        "The Perfect Beat"
+      ],
+      [
+        "The Perfect Beat",
+        "PRODUCER(S)",
+        "Swiff D"
+      ],
+      [
+        "The Perfect Beat",
+        "SAMPLES_AND_NOTES",
+        "Do It Twice by Bob Marley"
+      ],
+      [
+        "The Perfect Beat",
+        "PERFORMER(S)",
+        "Talib Kweli, KRS-One"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The Perfect Beat ranked 15th, was produced by Swiff D, uses samples of Do it Twice by Bob Marley, and features Talib Kweli, KRS-One."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Soon the New Day",
+        "TIME",
+        "4:02"
+      ],
+      [
+        "Soon the New Day",
+        "SONGWRITERS",
+        "Talib Kweli Greene, Otis Jackson Jr., Paul Charles, John Mason"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Songwriters Talib Kweli Greene, Otis Jackson Jr., Paul Charles, John Mason are writing Soon the New Day song with the duration of 4:02"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Arabic numerals",
+        "BINARY",
+        "0011 0000"
+      ],
+      [
+        "Arabic numerals",
+        "GLYPH",
+        "0"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The binary number 0011 0000 corresponds to an Arabic numeral glyph of 0."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Arabic numerals",
+        "GLYPH",
+        "2"
+      ],
+      [
+        "Arabic numerals",
+        "OCTAL",
+        "062"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In Arabic numerals, 2 is the same as octal's 062."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Arabic numerals",
+        "DECIMAL",
+        "51"
+      ],
+      [
+        "Arabic numerals",
+        "HEXADECIMAL",
+        "33"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Hexadecimal 33 is equivalent to decimal 51."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Arabic numerals",
+        "OCTAL",
+        "064"
+      ],
+      [
+        "Arabic numerals",
+        "BINARY",
+        "0011 0100"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "0011 0100 in binary is the same as 064 in octal."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "NAME",
+        "William Bennett"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Office of National Drug Control Policy"
+      ],
+      [
+        "William Bennett",
+        "TERM_OF_OFFICE",
+        "1989 - 1991"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In the Office of National Drug Control Policy from 1989-1991, William Bennett served."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Bob Martinez",
+        "PRESIDENT(S)_SERVED_UNDER",
+        "George H. W. Bush"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Bob Martinez served under President George H. W. Bush."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "NAME",
+        "Lee P. Brown"
+      ],
+      [
+        "Lee P. Brown",
+        "NUMBER",
+        "3"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Office of National Drug Control Policy"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Lee P. Brown was the third director of the Office of National Drug Control Policy."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "NAME",
+        "Barry McCaffrey"
+      ],
+      [
+        "Barry McCaffrey",
+        "TERM_OF_OFFICE",
+        "February 29, 1996 - January 4, 2001"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Office of National Drug Control Policy"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "From February 29, 1996 to January 4, 2001, Barry McCaffrey directed the Office of National Drug Control Policy."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "John P. Walters",
+        "PRESIDENT(S)_SERVED_UNDER",
+        "George W. Bush"
+      ],
+      [
+        "John P. Walters",
+        "TERM_OF_OFFICE",
+        "December 7, 2001 - January 19, 2009"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "John P. Walters worked with George W. Bush from December 7, 2001 to January 19, 2009."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Gil Kerlikowske",
+        "PRESIDENT(S)_SERVED_UNDER",
+        "Barack Obama"
+      ],
+      [
+        "Gil Kerlikowske",
+        "TERM_OF_OFFICE",
+        "May 7, 2009 - March 6, 2014"
+      ],
+      [
+        "Gil Kerlikowske",
+        "NUMBER",
+        "6"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "No 6 The Office of National Drug Control Policy person name Gil Kerlikowske the term office May 7, 2009 \u2013 March 6, 2014 by Barack Obama"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Sky Sport Extra HD",
+        "CONTENT",
+        "sport"
+      ],
+      [
+        "Sky Sport Extra HD",
+        "NUMBER",
+        "204"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The content offered by the package number 204's sport."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "87",
+        "TIME/RETIRED",
+        "1:48:11.023"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2003 Grand Prix of Monterey"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "DRIVERS",
+        "Patrick Carpentier"
+      ],
+      [
+        "Patrick Carpentier",
+        "NUMBER",
+        "32"
+      ],
+      [
+        "Patrick Carpentier",
+        "LAPS",
+        "87"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "No 32, Patrick Carpentier, finished the 87 laps of 2003 Grand Prix of Monterey in 1:48:11.023."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Bruno Junqueira",
+        "TEAM",
+        "Newman/Haas Racing"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2003 Grand Prix of Monterey"
+      ],
+      [
+        "Bruno Junqueira",
+        "LAPS",
+        "87"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "DRIVERS",
+        "Bruno Junqueira"
+      ],
+      [
+        "87",
+        "TIME/RETIRED",
+        "+0.8 secs"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Bruno Junqueira of the Newman/Haas Racing finished the 2003 Grand Prix of Monterey 0.8 secs behind the winner."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "DRIVERS",
+        "Tiago Monteiro"
+      ],
+      [
+        "86",
+        "TIME/RETIRED",
+        "+ 1 Lap"
+      ],
+      [
+        "Tiago Monteiro",
+        "LAPS",
+        "86"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2003 Grand Prix of Monterey"
+      ],
+      [
+        "Tiago Monteiro",
+        "TEAM",
+        "Fittipaldi-Dingman Racing"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Tiago Monteiro of the Fittipaldi-Dingman Racing team retired with 1 lap remaining in the 2003 Grand Prix of Monterey."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2003 Grand Prix of Monterey"
+      ],
+      [
+        "85",
+        "TIME/RETIRED",
+        "+ 2 Laps"
+      ],
+      [
+        "Joel Camathias",
+        "LAPS",
+        "85"
+      ],
+      [
+        "Joel Camathias",
+        "TEAM",
+        "Dale Coyne Racing"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "DRIVERS",
+        "Joel Camathias"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Joel Camathias of Dale Coyne Racing finished 85 laps with 2 more remaining in the 2003 Grand Prix of Monterey."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "83",
+        "TIME/RETIRED",
+        "Mechanical"
+      ],
+      [
+        "Geoff Boss",
+        "TEAM",
+        "Dale Coyne Racing"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "DRIVERS",
+        "Geoff Boss"
+      ],
+      [
+        "Geoff Boss",
+        "LAPS",
+        "83"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2003 Grand Prix of Monterey"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Geoff Boss of the Dale Coyne Racing team did not finish the 2003 Grand Prix of Monterey due to mechanical problems."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Jimmy Vasser",
+        "LAPS",
+        "87"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "DRIVERS",
+        "Jimmy Vasser"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2003 Grand Prix of Monterey"
+      ],
+      [
+        "Jimmy Vasser",
+        "TEAM",
+        "American Spirit Team Johansson"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "During the 2003 Grand Prix of Monterey, Jimmy Vasser drove 87 laps for American Spirit Team Johansson."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Adrian Fern\u00e1ndez",
+        "NUMBER",
+        "51"
+      ],
+      [
+        "Adrian Fern\u00e1ndez",
+        "TEAM",
+        "Fern\u00e1ndez Racing"
+      ],
+      [
+        "87",
+        "TIME/RETIRED",
+        "+1:01.4"
+      ],
+      [
+        "Adrian Fern\u00e1ndez",
+        "LAPS",
+        "87"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Adrian Fern\u00e1ndez (no. 51) of Fern\u00e1ndez Racing team completed 87 laps by +1:01.4."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "San Francisco de Macor\u00eds",
+        "ECCLESIASTICAL_PROVINCE",
+        "Santiago de los Caballeros"
+      ],
+      [
+        "San Francisco de Macor\u00eds",
+        "TYPE",
+        "Diocese"
+      ],
+      [
+        "San Francisco de Macor\u00eds",
+        "AREA_KM2",
+        "3,682"
+      ],
+      [
+        "San Francisco de Macor\u00eds",
+        "ESTABLISHED",
+        "16 January 1978"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "San Francisco de Macor\u00eds is a Diocese in the province of Santiago de los Caballeros that has an area of 3,682 km-sq and was established on 16 January 1978."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "San Pedro de Macor\u00eds",
+        "LATIN_NAME",
+        "Sancti Petri de Macoris"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "San Pedro de Macoris named in Latin as Sancti Petri de Macoris."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Nuestra Se\u00f1ora de la Altagracia en Higuey",
+        "LATIN_NAME",
+        "Higueyensis / a Domina Nostra vulgo de la Altagracia in Higuey"
+      ],
+      [
+        "Nuestra Se\u00f1ora de la Altagracia en Higuey",
+        "ESTABLISHED",
+        "1 April 1959"
+      ],
+      [
+        "Nuestra Se\u00f1ora de la Altagracia en Higuey",
+        "ECCLESIASTICAL_PROVINCE",
+        "Santo Domingo"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The ecclesiastical Jurisdictions is Nuestra Se\u00f1ora de la Altagracia en Hig\u00fcey. The Higueyensis / a Domina Nostra vulgo de la Altagracia in Hig\u00fcey. The ecclesiastical Province is Santo Domingo. The Established is 1 April 1959 ."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "29",
+        "SCORE",
+        "3 - 1"
+      ],
+      [
+        "29",
+        "DATE",
+        "December 11"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The score of the game on December 11 was 3 - 1."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "35",
+        "DATE",
+        "December 27"
+      ],
+      [
+        "35",
+        "OPPONENT",
+        "Florida Panthers"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Florida panthers was the opponent on December 27."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Trisha",
+        "GENDER",
+        "Female"
+      ],
+      [
+        "Trisha",
+        "STATUS",
+        "Winner"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Trisha, a female, is the winner"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "London",
+        "AGE",
+        "46"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "London's age is 46"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Adria",
+        "FROM",
+        "Seattle, WA"
+      ],
+      [
+        "Adria",
+        "AGE",
+        "25"
+      ],
+      [
+        "Adria",
+        "PROFESSION",
+        "Bartender"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Adria is 25 year old bartender from Seattle, WA"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Lucas",
+        "STATUS",
+        "6th Captured (by Kim)"
+      ],
+      [
+        "Lucas",
+        "GENDER",
+        "Male"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "A male was the 6th captured (by Kim)"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Andrew",
+        "FROM",
+        "Redondo Beach, CA"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Contestant Andrew is from Redondo Beach, California."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Tracy",
+        "PRIZE_MONEY_(USD)",
+        "$0"
+      ],
+      [
+        "Tracy",
+        "PROFESSION",
+        "Student"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Tracy is a student who won $0 in prize money"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Carmenta Farra",
+        "DIAMETER_(KM)",
+        "180.0"
+      ],
+      [
+        "Carmenta Farra",
+        "LONGITUDE",
+        "8.0E"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The diameter of the feature with longitude 8.0e is 180.0."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Liban Farra",
+        "LATITUDE",
+        "23.9S"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Liban farra is at latitude 23.9S."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "MIDWEST_DIVISION",
+        "Denver Nuggets"
+      ],
+      [
+        "Denver Nuggets",
+        "WINS",
+        "50"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "1976-77 NBA season"
+      ],
+      [
+        "Denver Nuggets",
+        "L",
+        "32"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Denver Nuggets won 50 and lost 32 games in the 1976-77 NBA season."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Chicago Bulls",
+        "PCT",
+        ".537"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "1976-77 NBA season"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "MIDWEST_DIVISION",
+        "Chicago Bulls"
+      ],
+      [
+        "Chicago Bulls",
+        "HOME",
+        "31-10"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Chicago Bulls winning percentage was .537 and achieved 31-10 at home court in 1976-77."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Kansas City Kings",
+        "DIV",
+        "7-13"
+      ],
+      [
+        "Kansas City Kings",
+        "GB",
+        "10"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "1976-77 NBA season"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "MIDWEST_DIVISION",
+        "Kansas City Kings"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Kansas City Kings was 10 games behind the leading team and finished the season 7-13 playing against teams in the Midwest Division in 1976-77."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Indiana Pacers",
+        "WINS",
+        "36"
+      ],
+      [
+        "Indiana Pacers",
+        "PCT",
+        ".439"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Pacers won 36 of their games, which amounts to only .439 for their PCT."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Milwaukee Bucks",
+        "ROAD",
+        "6-35"
+      ],
+      [
+        "Milwaukee Bucks",
+        "HOME",
+        "24-17"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Milwaukee performed drastically worse on the road with 6-35 compared to their 24-17 when having home court advantage."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Reed",
+        "LAND_(_SQMI_)",
+        "20.261"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The land area of Reed Township is 20.261 sqmi"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Rich",
+        "POP._(2010)",
+        "64"
+      ],
+      [
+        "Rich",
+        "LAND_(_SQMI_)",
+        "36.098"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Rich town is home to 64 people in its 36.098 square miles."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Rifle",
+        "LONGITUDE",
+        "-102.602182"
+      ],
+      [
+        "Rifle",
+        "LATITUDE",
+        "46.580715"
+      ],
+      [
+        "Rifle",
+        "COUNTY",
+        "Hettinger"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "The coordinates 46.580715,-102.602182  are in Hettinger county."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Rochester",
+        "COUNTY",
+        "Cass"
+      ],
+      [
+        "Rochester",
+        "ANSI_CODE",
+        "1036399"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "1036399 ANSI code is in Cass county."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Rosendal",
+        "LAND_(_SQMI_)",
+        "34.781"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The land area of rosendal is 34.781 sqmi"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "PARTY",
+        "Australian Labor Party"
+      ],
+      [
+        "Australian Labor Party",
+        "PERCENT",
+        "51.52"
+      ],
+      [
+        "Australian Labor Party",
+        "VOTES",
+        "324,135"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "South Australian state election, 1973"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In the 1973 South Australian state election, the Australian labor party got 324,135 votes, or 51.52%."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Liberal and Country League",
+        "CHANGE",
+        "0"
+      ],
+      [
+        "Liberal and Country League",
+        "SEATS",
+        "20"
+      ],
+      [
+        "Liberal and Country League",
+        "SWING",
+        "-3.97"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "PARTY",
+        "Liberal and Country League"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "South Australian state election, 1973"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "During the 1973 South Australian state election, the Liberal and Country League had a swing of -3.97, 20 seats, and a change of 0."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "PARTY",
+        "Nationals SA"
+      ],
+      [
+        "Nationals SA",
+        "CHANGE",
+        "+1"
+      ],
+      [
+        "Nationals SA",
+        "PERCENT",
+        "3.94"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "South Australian state election, 1973"
+      ],
+      [
+        "Nationals SA",
+        "VOTES",
+        "24,810"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Nationals SA got 24,810, or 3.94%, in the 1973 South Australian state election, for a change of +1."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Independent",
+        "SWING",
+        "+2.86"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "PARTY",
+        "Independent"
+      ],
+      [
+        "Independent",
+        "VOTES",
+        "27,178"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "South Australian state election, 1973"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Independents got 27,178 votes in the 1973 South Australian state election, with a swing of +2.86."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Other",
+        "CHANGE",
+        "0"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "South Australian state election, 1973"
+      ],
+      [
+        "Other",
+        "SEATS",
+        "0"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "PARTY",
+        "Other"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Other candidates had 0 seats and a change of zero in the 1973 South Australian state election."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "New York 9",
+        "INCUMBENT",
+        "Charles Schumer"
+      ],
+      [
+        "New York 9",
+        "CANDIDATES",
+        "Anthony Weiner (D) 66% Leslie Telano (R) 24%"
+      ],
+      [
+        "Charles Schumer",
+        "FIRST_ELECTED",
+        "1980"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The candidates in the district that first elected in 1980 were anthony weiner (d) 66% leslie telano (r) 24%."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Ed Towns",
+        "FIRST_ELECTED",
+        "1982"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The first elected year of the district that Ed Towns is an incumbent of's 1982."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Jose Serrano",
+        "PARTY",
+        "Democratic"
+      ],
+      [
+        "Jose Serrano",
+        "FIRST_ELECTED",
+        "1990"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The party elected in the district that first elected in 1990's democratic."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "John McHugh",
+        "PARTY",
+        "Republican"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "John McHugh is a member of republican."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "LS ( Leading Seaman )",
+        "MECHANICAL",
+        "LME"
+      ],
+      [
+        "LS ( Leading Seaman )",
+        "REGULATING",
+        "LPM"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "LME comes with LPM regulation."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "LS ( Leading Seaman )",
+        "REGULATING",
+        "LPM"
+      ],
+      [
+        "LS ( Leading Seaman )",
+        "RADIO_ELECTRICAL",
+        "LREN"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "LPM regulattopm comes with radio electrical IREN."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "15-01",
+        "EPISODE",
+        "183"
+      ],
+      [
+        "15-01",
+        "SEGMENT_D",
+        "High-Performance Engines"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Segment D for episode 183 was high-performance engines."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "15-06",
+        "SEGMENT_D",
+        "Luxury Sports Cars"
+      ],
+      [
+        "15-06",
+        "SEGMENT_A",
+        "s Pipe"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "When Segment D was luxury sports cars, segment A was s pipe."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "12",
+        "TEAM",
+        "charlotte"
+      ],
+      [
+        "12",
+        "SCORE",
+        "w 88-83 (ot)"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The scores made by Charlotte team are w 88\u201383 (ot)"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "6",
+        "HIGH_REBOUNDS",
+        "al horford (17)"
+      ],
+      [
+        "6",
+        "HIGH_ASSISTS",
+        "joe johnson (8)"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Joe johnson (8) made highest assists when high rebounds was Al Horford (17)"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Georgian",
+        "FRIDAY_DAY_SIX",
+        "\u10de\u10d0\u10e0\u10d0\u10e1\u10d9\u10d4\u10d5\u10d8 p'arask'evi"
+      ],
+      [
+        "Georgian",
+        "THURSDAY_DAY_FIVE",
+        "\u10ee\u10e3\u10d7\u10e8\u10d0\u10d1\u10d0\u10d7\u10d8 xut\u0161abati"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Thursday day five when friday day six is \u10de\u10d0\u10e0\u10d0\u10e1\u10d9\u10d4\u10d5\u10d8 p'arask'evi is \u10ee\u10e3\u10d7\u10e8\u10d0\u10d1\u10d0\u10d7\u10d8 xut\u0161abati."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Amharic",
+        "SATURDAY_DAY_SEVEN",
+        "\u1245\u12f3\u121c \u1e33\u0259dame (First)"
+      ],
+      [
+        "Amharic",
+        "THURSDAY_DAY_FIVE",
+        "\u1210\u1219\u1235 hamus"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Saturday day seven when thursday day five is \u1210\u1219\u1235 hamus is \u1245\u12f3\u121c \u1e33\u0259dame (first."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Malay",
+        "FRIDAY_DAY_SIX",
+        "Jumaat [\u26404 ]"
+      ],
+      [
+        "Malay",
+        "MONDAY_DAY_TWO",
+        "Isnin"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Friday day six when monday day two is isnin is jumaat [\u2640 4."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Indonesian",
+        "TUESDAY_DAY_THREE",
+        "Selasa"
+      ],
+      [
+        "Indonesian",
+        "THURSDAY_DAY_FIVE",
+        "Kamis"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Tuesday day three when thursday day five is kamis is selasa."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Khowar",
+        "THURSDAY_DAY_FIVE",
+        "\u067e\u0686\u06be\u0645\u0628\u06d2 pachhambey"
+      ],
+      [
+        "Khowar",
+        "FRIDAY_DAY_SIX",
+        "\u0622\u062f\u06cc\u0646\u06c1 [\u26403 ] adina"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Friday day six when thursday day five is \u067e\u0686\u06be\u0645\u0628\u06d2 pachhambey is \u0622\u062f\u06cc\u0646\u06c1 [\u26403] adina."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Lamar",
+        "POVERTY_RATE",
+        "16.1%"
+      ],
+      [
+        "Lamar",
+        "MARKET_INCOME_PER_CAPITA",
+        "$16,420"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The poverty rate in the county that has a market income per capita of $16,420 is 16.1%."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Marshall",
+        "STATUS",
+        "Transitional"
+      ],
+      [
+        "Marshall",
+        "POVERTY_RATE",
+        "14.7%"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The status of the county that has a 14.7% poverty rate is transitional."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Tallapoosa",
+        "POVERTY_RATE",
+        "16.6%"
+      ],
+      [
+        "Tallapoosa",
+        "MARKET_INCOME_PER_CAPITA",
+        "$20,518"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The povery rate of the county with market income per capita of $20,518 is 16.6%."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "\u0424\u0435\u0440\u043c\u0430\u0442\u0430 Farma",
+        "MAIN_PRESENTERS",
+        "TBA (Season 1)"
+      ],
+      [
+        "\u0424\u0435\u0440\u043c\u0430\u0442\u0430 Farma",
+        "REGION/COUNTRY",
+        "Bulgaria"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The main presenter for Bulgaria is TBA (season 1)."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "La Granja",
+        "MAIN_PRESENTERS",
+        "Sergio Lagos (Season 1-3)"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The main presenter of La Granja is Sergio Lagos (season 1 - 3)."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "BP6 / DT1",
+        "OPENING",
+        "6 November 1999"
+      ],
+      [
+        "BP6 / DT1",
+        "STATION_NAME_TAMIL",
+        "\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bcd \u0baa\u0bbe\u0b9e\u0bcd\u0b9a\u0bbe\u0b99\u0bcd"
+      ],
+      [
+        "BP6 / DT1",
+        "STATION_NAME_ENGLISH",
+        "Bukit Panjang"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Bukit Panjang station, Tamil name \u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bcd \u0baa\u0bbe\u0b9e\u0bcd\u0b9a\u0bbe\u0b99\u0bcd, opened on 6 November 1999."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "BP14",
+        "STATION_NAME_CHINESE",
+        "\u5341\u91cc\u5e7f\u573a"
+      ],
+      [
+        "BP14",
+        "STATION_NAME_ENGLISH",
+        "Ten Mile Junction"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The alpha-numeric code for Ten Mile Junction station (Chinese name: \u5341\u91cc\u5e7f\u573a) is BP14."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "SE2",
+        "STATION_NAME_ENGLISH",
+        "Rumbia"
+      ],
+      [
+        "SE2",
+        "OPENING",
+        "18 January 2003"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Rumbia, station code SE2, opened on Jan 18th 2003."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "PTC / NE17",
+        "OPENING",
+        "29 January 2005"
+      ],
+      [
+        "PTC / NE17",
+        "STATION_NAME_ENGLISH",
+        "Punggol"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Punggol, station code PTC / NE17, started operation on 29 January 2005."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "PW5",
+        "STATION_NAME_ENGLISH",
+        "Nibong"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "ALPHA-NUMERIC_CODE",
+        "PW5"
+      ],
+      [
+        "PW5",
+        "OPENING",
+        "TBA"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "List of Singapore LRT stations"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Singapore's new LRT station PW5, Nibong, is yet to be opened for operation."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Ban\u00edk Ostrava (1)",
+        "THIRD_PLACE",
+        "Sigma Olomouc"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Sigma olomouc had third place when the champions is ban\u00edk ostrava (1)."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Louisiana 3",
+        "CANDIDATES",
+        "Dave Treen (R) Unopposed"
+      ],
+      [
+        "Louisiana 3",
+        "INCUMBENT",
+        "Dave Treen"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Dave treen (r) unopposed ran against Dave Treen."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Louisiana 3",
+        "INCUMBENT",
+        "Dave Treen"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Dave Treen served louisiana."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Jerry Huckaby",
+        "PARTY",
+        "Democratic"
+      ],
+      [
+        "Jerry Huckaby",
+        "FIRST_ELECTED",
+        "1976"
+      ],
+      [
+        "Louisiana 5",
+        "RESULT",
+        "Re-elected"
+      ],
+      [
+        "Louisiana 5",
+        "INCUMBENT",
+        "Jerry Huckaby"
+      ],
+      [
+        "Louisiana 5",
+        "CANDIDATES",
+        "Jerry Huckaby (D) Unopposed"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Jerry Huckaby was first elected in 1976.0."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Ferruccio Busoni",
+        "DIED",
+        "1924"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Ferruccio Busoni died in 1924."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Baiti",
+        "FORMER_NAME",
+        "Beidi"
+      ],
+      [
+        "Baiti",
+        "POPULATION_(2005)",
+        "572"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "With the population in 2005 of 572, the former name is beidi."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Charlotte Eagles Year-by-year"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "1998"
+      ],
+      [
+        "1998",
+        "PLAYOFFS",
+        "Quarterfinals"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Charlotte Eagles entered quaterfinals in Playoffs in 1998"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "2003"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Charlotte Eagles Year-by-year"
+      ],
+      [
+        "2003",
+        "OPEN_CUP",
+        "Did not qualify"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Charlotte Eagles didn't qualify for the Open Cup in 2003"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Fylkir",
+        "PLAYED",
+        "18"
+      ],
+      [
+        "Fylkir",
+        "DRAW",
+        "6"
+      ],
+      [
+        "Fylkir",
+        "LOST",
+        "3"
+      ],
+      [
+        "Fylkir",
+        "POSITION",
+        "2"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Team Fylikir gained 33 points in 1988."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Selfoss",
+        "LOST",
+        "7"
+      ],
+      [
+        "Selfoss",
+        "POSITION",
+        "5"
+      ],
+      [
+        "Selfoss",
+        "WON",
+        "7"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "In 1988 Dield Karla was part of the Selfoss team in 5th position, with 7 wins and 7 losses."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "\u00cdBV",
+        "WON",
+        "6"
+      ],
+      [
+        "\u00cdBV",
+        "LOST",
+        "10"
+      ],
+      [
+        "\u00cdBV",
+        "POINTS",
+        "20"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Team \u00cdBV won 6 matches and lose 10 matches their point is 20."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "\u00cdR",
+        "POSITION",
+        "4"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The \u00cdR team ranked the 4th position"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "9",
+        "PROD._CODE",
+        "10"
+      ],
+      [
+        "9",
+        "DIRECTED_BY",
+        "terry hughes"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Terry hughes directed the episode with the production code 10."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "5",
+        "PROD._CODE",
+        "2"
+      ],
+      [
+        "5",
+        "WRITTEN_BY",
+        "michelle j. wolff"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Michelle j. wolff wrote the episode with production code 2."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "3",
+        "WRITTEN_BY",
+        "craig hoffman"
+      ],
+      [
+        "3",
+        "PROD._CODE",
+        "5"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Craig hoffman wrote the episode with production code 5."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "MetroStars",
+        "OVERALL_RECORD",
+        "11-12-7"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Goal-Scoring Totals for the 2004 Major League Soccer season"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "CLUB",
+        "MetroStars"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "The overall recrod  of MetroStars is 11-12-7 in the 2004 Major League Soccer season"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "D.C. United",
+        "GOALS_FOR",
+        "43"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "CLUB",
+        "D.C. United"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Goal-Scoring Totals for the 2004 Major League Soccer season"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "D.C. United scored 43 goals in the 2004 Major League Soccer seaon"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "42",
+        "GOALS_FOR_AVG.",
+        "1.40 (3rd)"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "CLUB",
+        "Los Angeles Galaxy"
+      ],
+      [
+        "Los Angeles Galaxy",
+        "GOALS_FOR",
+        "42"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Goal-Scoring Totals for the 2004 Major League Soccer season"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Los Angeles Galaxy scored 1.40 goals per game in 2004 Major League Soccer season"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "New England Revolution",
+        "GOALS_AGAINST",
+        "43"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "CLUB",
+        "New England Revolution"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Goal-Scoring Totals for the 2004 Major League Soccer season"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "New England Revolution lost 43 goals in the 2004 Major League Soccer season"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "San Jose Earthquakes",
+        "GOALS_AGAINST",
+        "35"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Goal-Scoring Totals for the 2004 Major League Soccer season"
+      ],
+      [
+        "35",
+        "GOALS_AGAINST_AVG.",
+        "1.17 (4th)"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "CLUB",
+        "San Jose Earthquakes"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "San Jose Earthquakes lost 1.17 goals per game in the 2004 Major League Soccer season"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Dallas Burn",
+        "OVERALL_RECORD",
+        "10-14-6"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The Dallas Burn club had an overall record of 10-14-6."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "5",
+        "CABLE_RANK",
+        "17"
+      ],
+      [
+        "5",
+        "AIRDATE",
+        "22 April 2010"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "22 april 2010 the episode air that had a ranking of 17 for cable."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1945-46",
+        "CONF.",
+        "0-4"
+      ],
+      [
+        "1945-46",
+        "OVERALL",
+        "3-7"
+      ],
+      [
+        "1945-46",
+        "COACH",
+        "Henry Swasey"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The New Hampshire Wildcats Basketball team is the basketball team that represent the University of New Hampshire in Durham"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1946-47",
+        "OVERALL",
+        "6-11"
+      ],
+      [
+        "1946-47",
+        "CONF.",
+        "0-5"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The team went 0-5 in conference games, and finished 6-11 overall during the 1946-47 season."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2001(Bulldogs)",
+        "GOALS",
+        "1"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Bulldogs scored 1 goal in 2001."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2003(Bulldogs)",
+        "POINTS",
+        "34"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Bulldogs scored 34 points in 2003"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2006(Roosters)",
+        "POINTS",
+        "0"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Roosters scored 0 points in 2006."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2013(Tigers)",
+        "POINTS",
+        "12"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Tigers played in 2013 and scored 12 points."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2012(Roosters)",
+        "POINTS",
+        "140"
+      ],
+      [
+        "2012(Roosters)",
+        "GOALS",
+        "62"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The Roosters scored 62 goals and 140 points in the 2012 season."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "203",
+        "FIRST_FLEW",
+        "31 January 1975"
+      ],
+      [
+        "203",
+        "REGISTRATION",
+        "F-BTSC"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The registration located on 31 january 1975 where first flew is f - btsc."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Liam Buchanan",
+        "TOTAL",
+        "14"
+      ],
+      [
+        "14",
+        "LEAGUE",
+        "11"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Liam Buchanan scored 11 goals in the League"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Mark Roberts",
+        "TOTAL",
+        "6"
+      ],
+      [
+        "6",
+        "SCOTTISH_CUP",
+        "1"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Mark Roberts scored 1 goal in the Scottish Cup"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Scott Chaplain",
+        "TOTAL",
+        "5"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Scott Chaplain scored 5 goals in total"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Gary Harkins",
+        "TOTAL",
+        "3"
+      ],
+      [
+        "3",
+        "LEAGUE_CUP",
+        "1"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Gary Harkins scored 1 goal in the League Cup"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Paul Di Giacomo",
+        "TOTAL",
+        "2"
+      ],
+      [
+        "2",
+        "CHALLENGE_CUP",
+        "1"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Paul Di Giacomo scored 1 goal in the Challenge Cup"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Uladzimir Kazlou",
+        "POSITION",
+        "7th"
+      ],
+      [
+        "Uladzimir Kazlou",
+        "COMPETITION",
+        "European U23 Championships"
+      ],
+      [
+        "European U23 Championships",
+        "YEAR",
+        "2005"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Uladzimir Kazlou finished 7th in the 2005 European U23 championships."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Universiade",
+        "YEAR",
+        "2009"
+      ],
+      [
+        "Universiade",
+        "NOTES",
+        "78.29 m"
+      ],
+      [
+        "Universiade",
+        "VENUE",
+        "Belgrade, Serbia"
+      ],
+      [
+        "Uladzimir Kazlou",
+        "COMPETITION",
+        "Universiade"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Uladzimir Kazlou got 78.29 m at the 2009 Universiade in Belgrade, Serbia."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Uladzimir Kazlou",
+        "COMPETITION",
+        "Olympic Games"
+      ],
+      [
+        "Uladzimir Kazlou",
+        "POSITION",
+        "15th (q)"
+      ],
+      [
+        "Olympic Games",
+        "VENUE",
+        "London, United Kingdom"
+      ],
+      [
+        "Olympic Games",
+        "YEAR",
+        "2012"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Uladzimir Kazlou finshed in 15th place at the London Olympics."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "49",
+        "DATE",
+        "february 6"
+      ],
+      [
+        "49",
+        "HIGH_POINTS",
+        "dwight howard (21)"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Dwight howard (21) had the high points on February 6."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "hubris",
+        "DIRECTED_BY",
+        "timothy van patten"
+      ],
+      [
+        "hubris",
+        "ORIGINAL_AIR_DATE",
+        "march 27, 1997"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The original air date of the episode directed by Timothy van Patten is March 27, 1997."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "no place like hell",
+        "ORIGINAL_AIR_DATE",
+        "may 8, 1997"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The original air date for the episode \"No Place Like Hell\" is May 8, 1997."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "school's out",
+        "ORIGINAL_AIR_DATE",
+        "february 6, 1997"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The episode \"School's Out\" was originally aired on February 6, 1997."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Tamil",
+        "SUNDAY_SURYA_(THE_SUN)",
+        "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1 \u0b95\u0bbf\u0bb4\u0bae\u0bc8 Ny\u0101yitru kizhamai"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Ny\u0101yitru kizhamai is the word for Sunday in Tamil"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Tamil",
+        "SATURDAY_SHANI_(SATURN)",
+        "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd \u0b95\u0bbf\u0bb4\u0bae\u0bc8 Shani kizhamai"
+      ],
+      [
+        "Tamil",
+        "SUNDAY_SURYA_(THE_SUN)",
+        "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1 \u0b95\u0bbf\u0bb4\u0bae\u0bc8 Ny\u0101yitru kizhamai"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "In Tamil, Sunday is \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1 \u0b95\u0bbf\u0bb4\u0bae\u0bc8 or ny\u0101yitru kizhamai, while Saturday is \u0b9a\u0ba9\u0bbf\u0b95\u0bcd \u0b95\u0bbf\u0bb4\u0bae\u0bc8 or shani kizhamai."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Sanskrit",
+        "MONDAY_SOMA_(THE_MOON)",
+        "\u0907\u0928\u094d\u0926\u0941\u0935\u093e\u0938\u0930\u092e\u094d Indu V\u0101saram"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Indu V\u0101saram is the word for Monday in Sanskrit"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Hindi",
+        "TUESDAY_MANGALA_(MARS)",
+        "\u092e\u0902\u0917\u0932\u0935\u093e\u0930 Mangalav\u0101r"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Mangalav\u0101r  is the word for Tuesday in Hindi"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Marathi",
+        "WEDNESDAY_BUDHA_(MERCURY)",
+        "\u092c\u0941\u0927\u0935\u093e\u0930 Budhav\u0101r"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Budhav\u0101r  is the word for Wednesday in Marathi"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Bengali",
+        "THURSDAY_GURU_(JUPITER)",
+        "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0 Brih\u00f4shpotibar"
+      ],
+      [
+        "Bengali",
+        "WEDNESDAY_BUDHA_(MERCURY)",
+        "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0 Budhbar"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "In Bengali, Wednesday is \u09ac\u09c1\u09a7\u09ac\u09be\u09b0 or \"budhbar,\" while Thursday is \u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0 or \"brih\u00f4shpotibar.\""
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Kashmiri",
+        "SUNDAY_SURYA_(THE_SUN)",
+        "\u0627\u064e\u062a\u06be \u0648\u0627\u0631 Aath'var"
+      ],
+      [
+        "Kashmiri",
+        "THURSDAY_GURU_(JUPITER)",
+        "\u0628\u0631\u0633 \u0648\u0627\u0631 Bres'var"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "In language where Thursday is \u0628\u0631\u0633 \u0648\u0627\u0631 bres'var, \u0627\u064e\u062a\u06be \u0648\u0627\u0631 aath'var is Sunday."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Kashmiri",
+        "WEDNESDAY_BUDHA_(MERCURY)",
+        "\u0628\u0631\u06be \u0648\u0627\u0631 Budh'var"
+      ],
+      [
+        "Kashmiri",
+        "SATURDAY_SHANI_(SATURN)",
+        "\u0628\u0679 \u0648\u0627\u0631 Bat'var"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "In language where Wednesday is \u0628\u0631\u06be \u0648\u0627\u0631 budh'var, \u0628\u0679 \u0648\u0627\u0631 bat'var is Saturday."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Sinhala",
+        "SATURDAY_SHANI_(SATURN)",
+        "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf Senasuraadaa"
+      ],
+      [
+        "Sinhala",
+        "TUESDAY_MANGALA_(MARS)",
+        "\u0d85\u0d9f\u0dc4\u0dbb\u0dd0\u0dc0\u0daf\u0dcf Anngaharuwadaa"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "In Sinhala, Saturday is \u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf or senasuraadaa, while Tuesday is \u0d85\u0d9f\u0dc4\u0dbb\u0dd0\u0dc0\u0daf\u0dcf anngaharuwadaa."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Javanese",
+        "THURSDAY_GURU_(JUPITER)",
+        "Respati"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Respati  is the word for Thursday inJavanese"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Austrian Grand Prix",
+        "CONSTRUCTOR",
+        "Ferrari"
+      ],
+      [
+        "Austrian Grand Prix",
+        "POLE_POSITION",
+        "Rubens Barrichello"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The pole position for the ferrari at the austrian grand prix is rubens barrichello."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Canadian Grand Prix",
+        "FASTEST_LAP",
+        "Juan Pablo Montoya"
+      ],
+      [
+        "Canadian Grand Prix",
+        "REPORT",
+        "Report"
+      ],
+      [
+        "Canadian Grand Prix",
+        "RD.",
+        "8"
+      ],
+      [
+        "Canadian Grand Prix",
+        "CONSTRUCTOR",
+        "Ferrari"
+      ],
+      [
+        "Canadian Grand Prix",
+        "WINNING_DRIVER",
+        "Michael Schumacher"
+      ],
+      [
+        "Canadian Grand Prix",
+        "POLE_POSITION",
+        "Juan Pablo Montoya"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The rd for the canadian grand prix is 8.0."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "European Grand Prix",
+        "FASTEST_LAP",
+        "Michael Schumacher"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The fastest lap for the european grand prix is michael schumacher."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "U.S. Route 30 Bypass",
+        "SOUTH/WEST_END",
+        "US 30 in Portland"
+      ],
+      [
+        "U.S. Route 30 Bypass",
+        "FORMED",
+        "1936"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "US Route 30 in Oregon was formed in 1936"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "CKYB-TV",
+        "NETWORK",
+        "CTV"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "List of television stations in Manitoba"
+      ],
+      [
+        "CKYB-TV",
+        "CITY_OF_LICENCE",
+        "Brandon"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "CALLSIGN",
+        "CKYB-TV"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "CKYB-TV is a CTV Network television station in Brandon, Manitoba."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "CKYA-TV",
+        "NOTES",
+        "satellite of CKY-DT Winnipeg"
+      ],
+      [
+        "CKYA-TV",
+        "ANALOG_CHANNEL",
+        "8"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Channel 8 station CKYA-TV is a satellite of CKY-DT Winnipeg."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "CHMI-DT",
+        "DIGITAL_CHANNEL",
+        "13"
+      ],
+      [
+        "CHMI-DT",
+        "VIRTUAL_CHANNEL",
+        "13.1"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "On channel 13 and 13.1 airs on CHMI-DT."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "CBWT-DT",
+        "NETWORK",
+        "CBC"
+      ],
+      [
+        "CBWT-DT",
+        "DIGITAL_CHANNEL",
+        "27"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "You can find CBWT-DT on CBC channel 27."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "List of television stations in Manitoba"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "CALLSIGN",
+        "CKND-DT"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "CKND-DT is a callsign for a television station in Manitoba."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "CKYB-TV",
+        "NOTES",
+        "satellite of CKY-DT Winnipeg"
+      ],
+      [
+        "CKYB-TV",
+        "NETWORK",
+        "CTV"
+      ],
+      [
+        "CKYB-TV",
+        "CITY_OF_LICENCE",
+        "Mccreary"
+      ],
+      [
+        "CKYB-TV",
+        "ANALOG_CHANNEL",
+        "13"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Manitoba has a station at channel 13 that has a license from Mccreary. Its callsign is CYKB-TV on network CTV which is the satellite of CKY-DT."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "french open",
+        "OPPONENTS_IN_THE_FINAL",
+        "nathalie dechy andy ram"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "French open had the final opponents of nathalie dechy andy ram."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Greg Bryant",
+        "HOMETOWN",
+        "Delray Beach, Florida"
+      ],
+      [
+        "Greg Bryant",
+        "SCHOOL",
+        "American Heritage School"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The hometown of the player who attended American Heritage School is Delray Beach, Florida."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Manchester Phoenix",
+        "ARENA",
+        "Altrincham Ice Dome"
+      ],
+      [
+        "Manchester Phoenix",
+        "COACH",
+        "Tony Hand"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Tony hand is the head coach for the team that plays at Altrincham Ice Dome."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "frankfurt",
+        "SCORE_IN_THE_FINAL",
+        "4-6, 6-3, 7-5, 6-4"
+      ],
+      [
+        "1994",
+        "CHAMPIONSHIP",
+        "frankfurt"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The score in the final in the year 1994 is 4 \u2013 6, 6 \u2013 3, 7 \u2013 5, 6\u20134."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1993",
+        "CHAMPIONSHIP",
+        "frankfurt"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Frankfurt is the championship for 1993."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1991",
+        "CHAMPIONSHIP",
+        "frankfurt"
+      ],
+      [
+        "frankfurt",
+        "OPPONENT_IN_THE_FINAL",
+        "jim courier"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Jim courier is the opponent in the final when frankfurt is championship and the year is 1991."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2002",
+        "RUNNER-UP",
+        "UCLA"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "2002"
+      ],
+      [
+        "2002",
+        "SCORE",
+        "8-4"
+      ],
+      [
+        "2002",
+        "NATIONAL_CHAMPION",
+        "Stanford"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "NCAA Women's Water Polo Championship"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Stanford emerged as the 2002 NCAA Women's Water Polo champion after defeating UCLA 8-4."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2005",
+        "HOST_OR_SITE",
+        "University of Michigan, Canham Natatorium, Ann Arbor, Michigan"
+      ],
+      [
+        "2005",
+        "RUNNER-UP",
+        "Stanford"
+      ],
+      [
+        "2005",
+        "SCORE",
+        "3-2"
+      ],
+      [
+        "2005",
+        "NATIONAL_CHAMPION",
+        "UCLA (3)"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "UCLA's team prevailed over Stanford with a close three to two score at the University of Michigan, winning the championship."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "NCAA Women's Water Polo Championship"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "2009"
+      ],
+      [
+        "2009",
+        "NATIONAL_CHAMPION",
+        "UCLA (7)"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "UCLA women's water polo team was the 2009 NCAA champion for the sport."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2010",
+        "RUNNER-UP",
+        "Stanford"
+      ],
+      [
+        "2010",
+        "SCORE",
+        "10-9"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "NCAA Women's Water Polo Championship"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "2010"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Stanford lost the women's water polo championship 10-9, a close match."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2011",
+        "SCORE",
+        "9-5"
+      ],
+      [
+        "2011",
+        "RUNNER-UP",
+        "California"
+      ],
+      [
+        "2011",
+        "NATIONAL_CHAMPION",
+        "Stanford (2)"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The NCAA Women's Water Polo NC official home. Get Women's Water Polo rankings, news, schedules and championship brackets."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "2012"
+      ],
+      [
+        "2012",
+        "HOST_OR_SITE",
+        "San Diego State, Aztec Aquaplex, San Diego, California"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "NCAA Women's Water Polo Championship"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The 2012 NCAA women's water polo championship was hosted by San Diego State at their Aztec Aquaplex."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Jozu Rill",
+        "POPULATION_ROMANIA",
+        "30,000-35,000"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "DATE",
+        "1864"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Banat Bulgarians"
+      ],
+      [
+        "Jozu Rill",
+        "POPULATION_SERBIA",
+        "30,000-35,000"
+      ],
+      [
+        "1864",
+        "SOURCE",
+        "Jozu Rill"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "According to Jozu Rill, there were approximately 30,000-35,000 Banat Bulgarians in Romania and Serbia."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Hungarian statistics",
+        "POPULATION_ROMANIA",
+        "13,536"
+      ],
+      [
+        "1910",
+        "SOURCE",
+        "Hungarian statistics"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "DATE",
+        "1910"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Banat Bulgarians"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Hungarian statistics estimated in 1910 that about 13536 Banat Bulgarians resided in Romania."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1939",
+        "SOURCE",
+        "Romanian census"
+      ],
+      [
+        "Romanian census",
+        "POPULATION_ROMANIA",
+        "9,951"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The 1939 Romanian census indicated the Romanian Banat Population is 9951."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Karol Telbizov",
+        "POPULATION_ROMANIA",
+        "12,000"
+      ],
+      [
+        "1940",
+        "SOURCE",
+        "Karol Telbizov"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Karol Telbizov's estimation of the Romanian Banat population is around 12000."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Yugoslav census",
+        "POPULATION_SERBIA",
+        "3,745"
+      ],
+      [
+        "1971",
+        "SOURCE",
+        "Yugoslav census"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In 1971, the census conducted by Yugoslavia indicated there are 3745 Serbian Banat."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2002",
+        "SOURCE",
+        "Serbian census"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The Serbian census was conducted in 2002."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2002",
+        "SOURCE",
+        "Romanian census"
+      ],
+      [
+        "Romanian census",
+        "POPULATION_ROMANIA",
+        "6,486"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "On 2002 Romanian census was 6,486."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Class 170/4",
+        "YEAR_OF_CONSTRUCTION",
+        "2004"
+      ],
+      [
+        "Class 170/4",
+        "NO._BUILT",
+        "7"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Number 7 was built in 2004."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Lisa's Mudder Comes for a Visit",
+        "NO._IN_SERIES",
+        "119"
+      ],
+      [
+        "Lisa's Mudder Comes for a Visit",
+        "SEASON_#",
+        "1"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Lisa's Mudder Comes for a Visit is Number 119 in the series and number 1 in the season."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "A Tale of a Tail",
+        "DIRECTED_BY",
+        "Richard L. Bare"
+      ],
+      [
+        "A Tale of a Tail",
+        "WRITTEN_BY",
+        "Jay Sommers and Dick Chevillat"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "A Tale of a Tail is directed by Richard L. Bare and written by Jay Sommers and Dick Chevillat."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "The Youth Center",
+        "ORIGINAL_AIR_DATE",
+        "November15,1969"
+      ],
+      [
+        "The Youth Center",
+        "SEASON_#",
+        "8"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Number 8 in the season and aired on November 15, 1969, was the Green Acre Episode titled The Youth Center"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Beauty is Skin Deep",
+        "ORIGINAL_AIR_DATE",
+        "December27,1969"
+      ],
+      [
+        "Beauty is Skin Deep",
+        "PRODUCTION_CODE",
+        "125"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Beauty is Skin Deep was aired on December 27, 1969 with the productioon code of 125."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "List of Green Acres episodes, Season 5 (1969-70)"
+      ],
+      [
+        "The Ex-Con",
+        "NO._IN_SERIES",
+        "136"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "The Ex-Con"
+      ],
+      [
+        "The Ex-Con",
+        "SEASON_#",
+        "18"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "The Ex-Con is number 18 in the season and number 136 in the series."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "the wealthy landowner",
+        "SEASON_#",
+        "25"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "\"The Wealthy Landowner\" was the 25th episode in its season."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "trapped",
+        "PRODUCTION_CODE",
+        "136"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The episode \"Trapped\" had production code 136."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "johnny williams",
+        "POSITION",
+        "slb"
+      ],
+      [
+        "johnny williams",
+        "CLASS",
+        "sr."
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The class for the SLB position is sr."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "ashton cobb",
+        "WEIGHT",
+        "208lb."
+      ],
+      [
+        "ashton cobb",
+        "#",
+        "27"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Number 27 weighs 208 lb."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "ashton cobb",
+        "POSITION",
+        "fs"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Ashton Cobb plays FS."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "GOALS",
+        "87' 2-0"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Jari Litmanen"
+      ],
+      [
+        "87' 2-0",
+        "DATE",
+        "16 May 1991"
+      ],
+      [
+        "16 May 1991",
+        "RESULT",
+        "Win"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "On 16 May 1991, Jari Litmanen won a game with goals 87' 2-0."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "25 Mar 1992",
+        "VENUE",
+        "Hampden Park, Glasgow"
+      ],
+      [
+        "41' 1-1",
+        "DATE",
+        "25 Mar 1992"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "GOALS",
+        "41' 1-1"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Jari Litmanen"
+      ],
+      [
+        "25 Mar 1992",
+        "VISITING_TEAM",
+        "Finland"
+      ],
+      [
+        "25 Mar 1992",
+        "HOME_TEAM",
+        "Scotland"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Jari Litmanen played a game in Hampden Park with Scotland as the home team and Finland as visiting."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "GOALS",
+        "60' 3-2"
+      ],
+      [
+        "13 Oct 1993",
+        "HOME_TEAM",
+        "Sweden"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Jari Litmanen"
+      ],
+      [
+        "13 Oct 1993",
+        "SCORE",
+        "3-2"
+      ],
+      [
+        "60' 3-2",
+        "DATE",
+        "13 Oct 1993"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Jari Litmanen played a game on 13 October 1993 where Sweden was home and the score was 3-2."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "16 Nov 1994",
+        "VENUE",
+        "Helsinki Olympic Stadium"
+      ],
+      [
+        "53' 2-0  72' 3-0",
+        "DATE",
+        "16 Nov 1994"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "GOALS",
+        "53' 2-0  72' 3-0"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Jari Litmanen"
+      ],
+      [
+        "Helsinki Olympic Stadium",
+        "COMPETITION",
+        "UEFA Euro 1996 qualifying"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "On November 16, 1994, Jari Litmanen played a game at the Helsinki Olympic Stadium for the UEFA Euro 1996 qualifying round."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "16 Nov 1994",
+        "SCORE",
+        "5-0"
+      ],
+      [
+        "53' 2-0  72' 3-0",
+        "DATE",
+        "16 Nov 1994"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "GOALS",
+        "53' 2-0  72' 3-0"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Jari Litmanen"
+      ],
+      [
+        "16 Nov 1994",
+        "RESULT",
+        "Win"
+      ],
+      [
+        "16 Nov 1994",
+        "HOME_TEAM",
+        "Finland"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Jari Litmanen won a game 5-0 where Finland was the home team."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Raymond van Barneveld",
+        "YEAR",
+        "2009"
+      ],
+      [
+        "Raymond van Barneveld",
+        "ROUND",
+        "Quarter-Final"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "PDC World Darts Championship"
+      ],
+      [
+        "Quarter-Final",
+        "RESULT",
+        "Won"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "PLAYER",
+        "Raymond van Barneveld"
+      ],
+      [
+        "Quarter-Final",
+        "OPPONENT",
+        "Jelle Klaasen"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Raymond van Barneveld won Jelle Klaasen in round Quarter-Final in 2009 PDC World Darts Championship"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2nd Round",
+        "OPPONENT",
+        "Brendan Dolan"
+      ],
+      [
+        "Raymond van Barneveld",
+        "ROUND",
+        "2nd Round"
+      ],
+      [
+        "2nd Round",
+        "RESULT",
+        "Won"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Raymond van Barnevel won against Brendan Dolan"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Final",
+        "RESULT",
+        "Won"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "PDC World Darts Championship"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "PLAYER",
+        "Adrian Lewis"
+      ],
+      [
+        "Final",
+        "OPPONENT",
+        "Gary Anderson"
+      ],
+      [
+        "Adrian Lewis",
+        "YEAR",
+        "2011"
+      ],
+      [
+        "Adrian Lewis",
+        "ROUND",
+        "Final"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Adrian Lewis won Gary Anderson in the final round of 2011 PDC World Darts Championship"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2nd Round",
+        "OPPONENT",
+        "Vincent van der Voort"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "PDC World Darts Championship"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "PLAYER",
+        "Dean Winstanley"
+      ],
+      [
+        "Dean Winstanley",
+        "ROUND",
+        "2nd Round"
+      ],
+      [
+        "Dean Winstanley",
+        "YEAR",
+        "2013"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Dean Winstanley's opponent is Vincent van der Voort in 2nd Round in 2013 PDC World Darts Championship"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Semi Final",
+        "OPPONENT",
+        "James Wade"
+      ],
+      [
+        "Michael van Gerwen",
+        "ROUND",
+        "Semi Final"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Michael van Gerwen entered in a Semi Final\this opponent was James Wade"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Terry Jenkins",
+        "ROUND",
+        "1st Round"
+      ],
+      [
+        "Terry Jenkins",
+        "YEAR",
+        "2014"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "PDC World Darts Championship"
+      ],
+      [
+        "1st Round",
+        "OPPONENT",
+        "Per Laursen"
+      ],
+      [
+        "1st Round",
+        "RESULT",
+        "Lost"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "PLAYER",
+        "Terry Jenkins"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Terry Jenkins lost the game with Per Laursen in the 1st Round of 2014 PDC World Darts Championship"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Pulteney Grammar School",
+        "LOCATION",
+        "Adelaide"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Pulteney grammar school is in adelaide."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Seymour College",
+        "DENOMINATION",
+        "Uniting Church"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The denomination of Seymour College is \"uniting church.\""
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Ahmednagar",
+        "FORMED",
+        "1 May 1960"
+      ],
+      [
+        "Ahmednagar",
+        "CODE",
+        "AH"
+      ],
+      [
+        "Ahmednagar",
+        "NUMBER",
+        "1"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "No 1, Ahmednagar (AH) was formed on May 1st, 1960."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Amravati",
+        "ADMINISTRATIVE_DIVISION",
+        "Amravati"
+      ],
+      [
+        "Amravati",
+        "HEADQUARTERS",
+        "Amravati"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The headquarters of Amravati is in Amravati is part of the Amravati administrative division."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Bhandara",
+        "POPULATION_(2001_CENSUS)",
+        "1,135,835"
+      ],
+      [
+        "1,135,835",
+        "%_OF_STATE_POPULATION",
+        "1.17%"
+      ],
+      [
+        "Bhandara",
+        "AREA_KM2",
+        "3,717"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Bhandara has an area of 3,717 km2 and a population of 1.1 million, accounting for 1.17 percent of state population."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Mumbai City",
+        "URBAN_(%)",
+        "100"
+      ],
+      [
+        "3,326,837",
+        "DENSITY_(PER_KM2)",
+        "49,140.9"
+      ],
+      [
+        "Mumbai City",
+        "POPULATION_(2001_CENSUS)",
+        "3,326,837"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Mumbai City has a density of 49,140 km2 and is 100 percent urban population."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Nashik",
+        "SEX_RATIO",
+        "927"
+      ],
+      [
+        "Nashik",
+        "TEHSILS",
+        "15"
+      ],
+      [
+        "Nashik",
+        "LITERACY_(%)",
+        "74.4"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "According to the district website, Nashik has a litaeracy rate of 74 percent and a 927 sex ratio and 15 tehsils."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Jalgaon",
+        "ADMINISTRATIVE_DIVISION",
+        "Nashik"
+      ],
+      [
+        "Jalgaon",
+        "CODE",
+        "JG"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Maharashtra is divided into 36 Districts and 6 Administrative Divisions, namely; Mumbai (Konkan), Nashik, Aurangabad, Amravati and Nagpur. The 36 districts are divided into 109 sub-divisions and 358 taluks.Mar 2, 2020"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Buldhana",
+        "AREA_KM2",
+        "9,680"
+      ],
+      [
+        "Buldhana",
+        "URBAN_(%)",
+        "21.2"
+      ],
+      [
+        "Buldhana",
+        "TEHSILS",
+        "13"
+      ],
+      [
+        "Buldhana",
+        "POPULATION_(2001_CENSUS)",
+        "2,232,480"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Buldhana has 21.2% of its 2,232,480 population in an urban setting, has an area of 9,680 square kilometers, and has 13 Tehsils."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Florida Southern College",
+        "ENROLLMENT",
+        "3488"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The enrollment of Florida Southern College is 3,488."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Margaret Roggero Category:Articles with hCards",
+        "LAST_PERFORMANCE",
+        "04/08/1963"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Margaret roggero category: articles with hcards was the performer that did last performance on 04/08/1963"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Clarence Whitehill Category:Articles with hCards",
+        "LAST_PERFORMANCE",
+        "04/09/1932"
+      ],
+      [
+        "Clarence Whitehill Category:Articles with hCards",
+        "FIRST_PERFORMANCE",
+        "11/15/1909"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "clarence whitehill category:articles with hcards's the first performance is on 11/15/1909 and the last performance 04/09/1932"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Georgia 2",
+        "INCUMBENT",
+        "Frank Park"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Frank parked run georgia in"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Georgia 5",
+        "INCUMBENT",
+        "William D. Upshaw"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "William d. won in the race in the section georgia 5"
+      }
+    ]
+  }
+]

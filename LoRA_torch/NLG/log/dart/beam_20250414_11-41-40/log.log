@@ -1,0 +1,58 @@
+2025-04-14 11:41:40,391 - INFO - ====================================================================================================
+2025-04-14 11:41:40,391 - INFO -         - platform : local
+2025-04-14 11:41:40,391 - INFO -         - local_rank : 0
+2025-04-14 11:41:40,391 - INFO -         - rank : 0
+2025-04-14 11:41:40,392 - INFO -         - device : cuda:0
+2025-04-14 11:41:40,392 - INFO -         - world_size : 1
+2025-04-14 11:41:40,392 - INFO -         - random_seed : 10
+2025-04-14 11:41:40,392 - INFO -         - log_dir : ./log/dart
+2025-04-14 11:41:40,392 - INFO -         - data : ./data/dart/test.jsonl
+2025-04-14 11:41:40,392 - INFO -         - batch_size : 1
+2025-04-14 11:41:40,392 - INFO -         - seq_len : 256
+2025-04-14 11:41:40,392 - INFO -         - eval_len : 64
+2025-04-14 11:41:40,392 - INFO -         - min_length : 0
+2025-04-14 11:41:40,392 - INFO -         - model_card : gpt2.sm
+2025-04-14 11:41:40,392 - INFO -         - init_checkpoint : ./trained_models/GPT2_SM/dart/model.2250.pt
+2025-04-14 11:41:40,392 - INFO -         - lora_dim : 4
+2025-04-14 11:41:40,392 - INFO -         - lora_alpha : 32
+2025-04-14 11:41:40,392 - INFO -         - work_dir : ./trained_models/GPT2_SM/dart
+2025-04-14 11:41:40,392 - INFO -         - beam : 10
+2025-04-14 11:41:40,392 - INFO -         - length_penalty : 0.8
+2025-04-14 11:41:40,392 - INFO -         - no_repeat_ngram_size : 4
+2025-04-14 11:41:40,392 - INFO -         - repetition_penalty : 1.0
+2025-04-14 11:41:40,392 - INFO -         - eos_token_id : [50256, 628]
+2025-04-14 11:41:40,392 - INFO -         - output_file : predict.2250.b10p08.jsonl
+2025-04-14 11:41:40,392 - INFO -         - dist : <module 'torch.distributed' from '/home/yindi/anaconda3/envs/lora_gpt2_3.7/lib/python3.7/site-packages/torch/distributed/__init__.py'>
+2025-04-14 11:41:40,392 - INFO - ====================================================================================================
+2025-04-14 11:41:42,188 - INFO - loading model pretrained weight.
+2025-04-14 11:41:43,189 - INFO - model sampling ...
+2025-04-14 11:41:44,645 - INFO - inference samples 0
+2025-04-14 11:41:59,286 - INFO - inference samples 10
+2025-04-14 11:42:13,833 - INFO - inference samples 20
+2025-04-14 11:42:28,256 - INFO - inference samples 30
+2025-04-14 11:42:42,602 - INFO - inference samples 40
+2025-04-14 11:42:56,864 - INFO - inference samples 50
+2025-04-14 11:43:11,169 - INFO - inference samples 60
+2025-04-14 11:43:25,479 - INFO - inference samples 70
+2025-04-14 11:43:39,794 - INFO - inference samples 80
+2025-04-14 11:43:54,099 - INFO - inference samples 90
+2025-04-14 11:44:08,420 - INFO - inference samples 100
+2025-04-14 11:44:22,754 - INFO - inference samples 110
+2025-04-14 11:44:37,242 - INFO - inference samples 120
+2025-04-14 11:44:51,527 - INFO - inference samples 130
+2025-04-14 11:45:05,870 - INFO - inference samples 140
+2025-04-14 11:45:20,151 - INFO - inference samples 150
+2025-04-14 11:45:34,507 - INFO - inference samples 160
+2025-04-14 11:45:48,797 - INFO - inference samples 170
+2025-04-14 11:46:03,042 - INFO - inference samples 180
+2025-04-14 11:46:17,262 - INFO - inference samples 190
+2025-04-14 11:46:31,463 - INFO - inference samples 200
+2025-04-14 11:46:45,755 - INFO - inference samples 210
+2025-04-14 11:46:59,989 - INFO - inference samples 220
+2025-04-14 11:47:14,214 - INFO - inference samples 230
+2025-04-14 11:47:28,456 - INFO - inference samples 240
+2025-04-14 11:47:42,738 - INFO - inference samples 250
+2025-04-14 11:47:56,969 - INFO - inference samples 260
+2025-04-14 11:48:11,194 - INFO - inference samples 270
+2025-04-14 11:48:14,055 - INFO - saving prediction file ./trained_models/GPT2_SM/dart/predict.2250.b10p08.jsonl
+2025-04-14 11:48:14,058 - INFO - cleanup dist ...

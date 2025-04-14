@@ -1,0 +1,6228 @@
+[
+  {
+    "tripleset": [
+      [
+        "Hawaii Five-O",
+        "NOTES",
+        "Episode: The Flight of the Jewels"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Jeff Daniels"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "Hawaii Five-O"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Jeff Daniels played in the Hawaii Five-O episode The Flight of the Jewels"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "American Playhouse"
+      ],
+      [
+        "American Playhouse",
+        "ROLE",
+        "Jed Jenkins"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Jeff Daniels"
+      ],
+      [
+        "American Playhouse",
+        "YEAR",
+        "1982"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In 1982, Jed Jenkins in American Playhouse was played by Jeff Daniels."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "Saturday Night Live"
+      ],
+      [
+        "Saturday Night Live",
+        "YEAR",
+        "1991"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Jeff Daniels"
+      ],
+      [
+        "Saturday Night Live",
+        "ROLE",
+        "Host"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Jeff Daniels hosted an episode of Saturday Night Live in 1991."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "Planet Sheen"
+      ],
+      [
+        "Planet Sheen",
+        "ROLE",
+        "Glonb"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Jeff Daniels"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Jeff Daniels was in Planet Sheen in the role of Glonb."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Jeff Daniels"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "The Newsroom"
+      ],
+      [
+        "The Newsroom",
+        "NOTES",
+        "19 episodes Primetime Emmy Award for Outstanding Lead Actor in a Drama Series (2013) Nominated\u2014Golden Globe Award for Best Actor - Television Series Drama (2012) Nominated\u2014Satellite Award for Best Actor - Television Series Drama (2013, 2014) Nominated\u2014Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Drama Series (2013, 2014)"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Jeff Daniels played in 19 episodes of The Newsroom."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Yoshifumi Miyamoto",
+        "RANK",
+        "9"
+      ],
+      [
+        "9",
+        "TIME",
+        "1:02:38"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Yoshifumi Miyamoto had a time of 1:02:38."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Joaquim Pinheiro",
+        "RANK",
+        "10"
+      ],
+      [
+        "10",
+        "TIME",
+        "1:02:40"
+      ],
+      [
+        "Joaquim Pinheiro",
+        "NATIONALITY",
+        "Portugal"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Joaquim Pinheiro achieved a 1:02:40 time for Portugal."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "9 aug 1998",
+        "TOURNAMENT",
+        "mcdonald's wpga championship"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The date for the tournament McDonald's wpga championship is 9 aug 1998."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "71-69-67-69=276",
+        "MARGIN_OF_VICTORY",
+        "5 strokes"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "When the winning score was 71-69-67-69=276, the margin of victory was 5 strokes."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "74-67-71-73=285",
+        "TO_PAR",
+        "-3"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "When the winning score was 74-67-71-73=285, the to par was -3."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "ricoh women's british open 1",
+        "WINNING_SCORE",
+        "74-67-71-73=285"
+      ],
+      [
+        "2 aug 2009",
+        "TOURNAMENT",
+        "ricoh women's british open 1"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The date of the winning score 74-67-71-73=285 is 2 aug 2009."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2012",
+        "POSITION",
+        "1st"
+      ],
+      [
+        "2012",
+        "MOTORCYCLE",
+        "KTM"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The ktm motorcycle achieved 1st."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "January 31, 1994",
+        "CHAMPIONSHIP",
+        "Australian Open, Melbourne, Australia"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "January 31, 1994 Championship was Australian Open, Melbourne, Australia"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "July 26, 1993",
+        "CHAMPIONSHIP",
+        "Washington D.C., USA"
+      ],
+      [
+        "Washington D.C., USA",
+        "SURFACE",
+        "Hard"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Table Title: Todd Martin Championship in Washington D.C., USA\thas a hard surface with date of July 26, 1993"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "AWARD",
+        "23rd Seoul Music Awards"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Ailee"
+      ],
+      [
+        "23rd Seoul Music Awards",
+        "YEAR",
+        "2013"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Ailee won the Rookie Award in 2013 at the 23rd Seoul Music Awards"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Cyworld Digital Music Awards",
+        "YEAR",
+        "2012"
+      ],
+      [
+        "Cyworld Digital Music Awards",
+        "CATEGORY",
+        "Rookie & Song of the Month (February)"
+      ],
+      [
+        "Rookie & Song of the Month (February)",
+        "RECIPIENT",
+        "Heaven"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Heaven won Cyworld Digital Music awards for category Rookie & song of the month (February) in 2012"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "DeBaca",
+        "TOTAL",
+        "1034"
+      ],
+      [
+        "1034",
+        "MCCAIN#",
+        "676"
+      ],
+      [
+        "676",
+        "MCCAIN%",
+        "65.38%"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "McCain got 65.38%."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "3909",
+        "OBAMA#",
+        "1546"
+      ],
+      [
+        "1546",
+        "OBAMA%",
+        "39.55%"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Obama got 39.55% in the county where 3909 people voted in total."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "14893",
+        "MCCAIN#",
+        "3648"
+      ],
+      [
+        "14893",
+        "OBAMA#",
+        "11245"
+      ],
+      [
+        "11245",
+        "OBAMA%",
+        "75.51%"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Obama got 75.51% in the county where McCain got 3648 votes."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Aston Villa",
+        "WINNERS",
+        "5"
+      ],
+      [
+        "5",
+        "YEARS_WON",
+        "1961, 1975, 1977, 1994, 1996"
+      ],
+      [
+        "Aston Villa",
+        "RUNNER-UP",
+        "3"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "From 1961 to 1996, The Aston Villa Football League won the cup five times, and was the runner up in 3."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1",
+        "GENERAL_CLASSIFICATION",
+        "Li Fuyu"
+      ],
+      [
+        "1",
+        "POINTS_CLASSIFICATION",
+        "Anuar Manan"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "When Li Fuyu was the stage winner, Anuar Manan won the points classification."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "RACE",
+        "Donington Park"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2008 Superleague Formula season"
+      ],
+      [
+        "Donington Park",
+        "ROUND",
+        "R1"
+      ],
+      [
+        "Donington Park",
+        "POLE_POSITION",
+        "Beijing Guoan"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "During the 2008 Superleague Formula season, Beijing Guoan was the pole position of a round 1 Donington Park race."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Donington Park",
+        "DATE",
+        "August 31"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2008 Superleague Formula season"
+      ],
+      [
+        "Donington Park",
+        "WINNING_CLUB",
+        "Sevilla FC"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "RACE",
+        "Donington Park"
+      ],
+      [
+        "Donington Park",
+        "WINNING_TEAM",
+        "GTA Motor Competici\u00f3n"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "On August 31, 2008, Sevilla FC won a Superleague Formula race, and GTA Motor Competici\u00f3n was the winning team."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Nurburgring",
+        "FASTEST_LAP",
+        "PSV Eindhoven"
+      ],
+      [
+        "Nurburgring",
+        "WINNING_CLUB",
+        "A.C. Milan"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "PSV Eindhoven had the fastest lab on the Nurburgring, and A.C. Milan was the winning club at that race."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Nurburgring",
+        "DATE",
+        "September 21"
+      ],
+      [
+        "Nurburgring",
+        "ROUND",
+        "R2"
+      ],
+      [
+        "Nurburgring",
+        "WINNING_TEAM",
+        "Azerti Motorsport"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In Round 2 on the Nurburgring, Azerti Motorsport was the winning team on September 21, 2008."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Zolder",
+        "FASTEST_LAP",
+        "Liverpool F.C."
+      ],
+      [
+        "Zolder",
+        "DATE",
+        "October 5"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "On October 5, 2008, Liverpool F.C. got the fastest lap at a Zolder race."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2005-06",
+        "INTERMEDIATE_(SOUTH)_WINNERS",
+        "southmead athletic"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The Intermediate (South) Winners of the 2005-06 season is the southmead athletic"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2007-08",
+        "MINOR_(SOUTH)_WINNERS",
+        "bristol sanctuary xi"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The Minor (South) Winners of the 2007-08 season is the bristol sanctuary xi"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Axis & Allies: Battle of the Bulge",
+        "RELEASE",
+        "2006"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Axis & allies: battle of the bulge were released in 2006."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "she's the one",
+        "DIRECTED_BY",
+        "joel zwick"
+      ],
+      [
+        "she's the one",
+        "NO._IN_SERIES",
+        "123"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The 123rd episode in the series was directed by Joel Zwick."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "the kissing game",
+        "DIRECTED_BY",
+        "patrick duffy"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Patrick Duffy directed \"The Kissing Game\"."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "sex, lies and videotape",
+        "NO._IN_SERIES",
+        "120"
+      ],
+      [
+        "sex, lies and videotape",
+        "WRITTEN_BY",
+        "adam markowitz"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Adam Markowitz directed the 120th episode in the series."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1979",
+        "CHAMPIONSHIP",
+        "us open"
+      ],
+      [
+        "us open",
+        "SURFACE",
+        "hard"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "In 1979, the championship was the US open and the surface was hard."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "FREQUENCY",
+        "89.7 FM"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Yankton, South Dakota"
+      ],
+      [
+        "89.7 FM",
+        "NAME",
+        "South Dakota Public Broadcasting"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In Yankton, South Dakota, 89.7 FM plays South Dakota Public Broadcasting."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "KK93",
+        "FORMAT",
+        "Country"
+      ],
+      [
+        "93.1 FM",
+        "NAME",
+        "KK93"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "KK93, on 93.1 FM, plays country music."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "94.3 FM",
+        "NAME",
+        "The Dam"
+      ],
+      [
+        "94.3 FM",
+        "OWNERS",
+        "Riverfront Broadcasting LLC"
+      ],
+      [
+        "The Dam",
+        "FORMAT",
+        "Mainstream Rock"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Riverfront Broadcasting LLC owns The Dam, which plays mainstream rock."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "FREQUENCY",
+        "104.1 FM"
+      ],
+      [
+        "104.1 FM",
+        "NAME",
+        "The Wolf 104.1"
+      ],
+      [
+        "104.1 FM",
+        "CITY",
+        "Yankton"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Yankton, South Dakota"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Wolf 104.1 is licensed in Yankton."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Classic Hits 106.3",
+        "FORMAT",
+        "Classic Hits"
+      ],
+      [
+        "106.3 FM",
+        "NAME",
+        "Classic Hits 106.3"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Classic hits are played on 106.3 FM."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "6-03",
+        "20_QUESTIONS",
+        "Nelly"
+      ],
+      [
+        "6-03",
+        "INTERVIEW_SUBJECT",
+        "Mike Piazza"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Nelly was featured in 20 Questions when the subject of the interview was Mike Piazza."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "9-03",
+        "CENTERFOLD_MODEL",
+        "Luci Victoria"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The centerfold that featured Luci Victoria was on 9-03."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Curtis",
+        "POSITION",
+        "Left tackle"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Curtis was at position left tackle."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "2012"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "21st century Norwegian International"
+      ],
+      [
+        "2012",
+        "MIXED_DOUBLES",
+        "Jorrit de Ruiter Samantha Barning"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Jorrit de Ruiter and Samantha Barning won mixed doubles in the 2012 Norwegian International."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2010",
+        "WOMENS_DOUBLES",
+        "Lotte Jonathans Paulien van Dooremalen"
+      ],
+      [
+        "2010",
+        "WOMENS_SINGLES",
+        "Olga Konon"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Olga Konon was the women's singles champion, while Lotte Jonathans and Paulien van Dooremalen won women's doubles."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "21st century Norwegian International"
+      ],
+      [
+        "2007",
+        "MENS_SINGLES",
+        "Marc Zwiebler"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "2007"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Marc Zwiebler won men's singles at the 2007 Norwegian International."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2007",
+        "MENS_SINGLES",
+        "Marc Zwiebler"
+      ],
+      [
+        "2007",
+        "WOMENS_SINGLES",
+        "Juliane Schenk"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Juliane Schenk won the women's singles and Marc Zwiebler won the men's singles."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2006",
+        "MENS_DOUBLES",
+        "Anton Nazarenko Andrey Ashmarin"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "21st century Norwegian International"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "2006"
+      ],
+      [
+        "2006",
+        "MIXED_DOUBLES",
+        "Imam Sodikin Irawan Elin Bergblom"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "In the 2006 Norwegian International, Anton Nazarenko and Andrey Ashmarin won men's doubles, while the mixed doubles champions were Imam Sokidin and Irawan Elin Bergblom"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2002",
+        "WOMENS_SINGLES",
+        "Tine Rasmussen"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Tine Rasmussen was the women's singles winner in 2002."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "The Big Fix"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Mandy Patinkin"
+      ],
+      [
+        "The Big Fix",
+        "ROLE",
+        "Pool Man"
+      ],
+      [
+        "The Big Fix",
+        "YEAR",
+        "1978"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Mandy Patinkin was the actor for the Pool Man in the 1978 movie The Big Fix."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Yentl",
+        "ROLE",
+        "Avigdor"
+      ],
+      [
+        "Yentl",
+        "NOTES",
+        "Nominated\u2014Golden Globe Award for Best Actor - Motion Picture Musical or Comedy"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Mandy Patinkin"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "Yentl"
+      ],
+      [
+        "Yentl",
+        "YEAR",
+        "1983"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Mandy Patinkin was nominated for the Golden Globe Award for Best Actor - Motion Picture Musical or Comedy for his performance in the 1983 movie Yentl as Avigdor."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "Alien Nation"
+      ],
+      [
+        "Alien Nation",
+        "YEAR",
+        "1988"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Mandy Patinkin"
+      ],
+      [
+        "Alien Nation",
+        "ROLE",
+        "Detective Samuel 'George' Francisco"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Mandy Patinkin played Detective Samuel 'George' Francisco in the 1988 movie Alien Nation."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "Life with Mikey"
+      ],
+      [
+        "Life with Mikey",
+        "YEAR",
+        "1993"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Mandy Patinkin"
+      ],
+      [
+        "Life with Mikey",
+        "ROLE",
+        "Irate Man"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Irate Man in the 1993 movie Life with Mikey was played by Mandy Patinkin."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Pi\u00f1ero",
+        "ROLE",
+        "Joseph Papp"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Mandy Patinkin"
+      ],
+      [
+        "Pi\u00f1ero",
+        "YEAR",
+        "2001"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "Pi\u00f1ero"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In the 2001 movie Pi\u00f1ero, Mandy Patinkin was casted as Joseph Papp."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Central Colleges of the Philippines CCP Bobcats",
+        "STUNTS",
+        "54"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Central colleges of the philippines ccp bobcats has 54 stunts."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "University of Makati UM Pep Squad",
+        "TOTAL",
+        "211.5"
+      ],
+      [
+        "University of Makati UM Pep Squad",
+        "RANK",
+        "11"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "It ranks 11th with a total of 211.5"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Do You Know",
+        "YEAR",
+        "2002"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Do You Know is a song from 2002."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Favorite Things",
+        "YEAR",
+        "2004"
+      ],
+      [
+        "Favorite Things",
+        "ALBUM",
+        "N/A"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Favorite Things is a single released in 2004"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Bring Me Down",
+        "YEAR",
+        "2010"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "TITLE",
+        "Bring Me Down"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Saigon (rapper)"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In 2011, Saigon released Bring Me Down."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "The Greatest Story Never Told",
+        "YEAR",
+        "2011"
+      ],
+      [
+        "The Greatest Story Never Told",
+        "ALBUM",
+        "The Greatest Story Never Told"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Greatest Story Never Told was released in 2011."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "(featuring Faith Evans)",
+        "PEAK_CHART_POSITIONS_US_RAP",
+        "None"
+      ],
+      [
+        "(featuring Faith Evans)",
+        "ALBUM",
+        "The Greatest Story Never Told"
+      ],
+      [
+        "(featuring Faith Evans)",
+        "PEAK_CHART_POSITIONS_US_R&B",
+        "None"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Greatest Story Never Told did not make the national R&B or Rap charts."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "The stem was cut",
+        "DATE",
+        "1930"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "EVENT",
+        "The stem was cut"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Pitch drop experiment"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The stem of the pitch drop experiment was cut in 1930."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "EVENT",
+        "3rd drop fell"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Pitch drop experiment"
+      ],
+      [
+        "3rd drop fell",
+        "DATE",
+        "April 1954"
+      ],
+      [
+        "3rd drop fell",
+        "DURATION_(MONTHS)",
+        "86"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The 3rd drop of pitch fell in April, 1954, taking a total of 86 months since the last drop had fallen."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "4th drop fell",
+        "DURATION_(YEARS)",
+        "8.1"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "In 1962 the pitch drop experiment lasted 8.1 years for the 4th drop fell."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "5th drop fell",
+        "DATE",
+        "August 1970"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Pitch drop experiment"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "EVENT",
+        "5th drop fell"
+      ],
+      [
+        "5th drop fell",
+        "DURATION_(YEARS)",
+        "8.3"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In August, 1970, the 5th drop of pitch fell, and it had been 8.3 years since the previous drop had fallen."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "7th drop fell",
+        "DATE",
+        "July 1988"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Pitch drop experiment"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "EVENT",
+        "7th drop fell"
+      ],
+      [
+        "7th drop fell",
+        "DURATION_(MONTHS)",
+        "111"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "It had been 111 months since the last drop had fallen when the 7th drop of pitch fell in July 1988."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "8th drop fell",
+        "DURATION_(YEARS)",
+        "12.3"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Pitch drop experiment"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "EVENT",
+        "8th drop fell"
+      ],
+      [
+        "8th drop fell",
+        "DATE",
+        "28 November 2000"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "When the 8th drop of pitch fell on 28 November 2000, 12.3 years had passed since the last drop had fallen."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Lynn Rivers",
+        "FIRST_ELECTED",
+        "1994"
+      ],
+      [
+        "Lynn Rivers",
+        "PARTY",
+        "Democratic"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The incumbent first elected in 1994 belongs to democratic."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "BMW 7 Series (E38)"
+      ],
+      [
+        "728i",
+        "ENGINE",
+        "M52B28 I6"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "MODEL",
+        "728i"
+      ],
+      [
+        "M52B28 I6",
+        "VOLUME",
+        "2.8L"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The BMW 728i model has a volume 2.8L and an M52B28 I6 engine"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "MODEL",
+        "728iL"
+      ],
+      [
+        "M52B28 I6",
+        "FUEL",
+        "Petrol"
+      ],
+      [
+        "728iL",
+        "ENGINE",
+        "M52B28 I6"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "BMW 7 Series (E38)"
+      ],
+      [
+        "728iL",
+        "PRODUCED",
+        "6816"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The BMW 728iL model has an M52B28 I6 engine with petrol fuel and has been produced 6816 times"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "BMW 7 Series (E38)"
+      ],
+      [
+        "730i",
+        "YEARS_PRODUCED",
+        "1994-1996"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "MODEL",
+        "730i"
+      ],
+      [
+        "730i",
+        "PRODUCED",
+        "20876"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The BMW 730i model has been produced 20876 times from 1994 to 1996"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "730iL",
+        "ENGINE",
+        "M60B30 V8"
+      ],
+      [
+        "M60B30 V8",
+        "FUEL",
+        "Petrol"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "BMW 7 Series (E38)"
+      ],
+      [
+        "M60B30 V8",
+        "VOLUME",
+        "3.0L"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "MODEL",
+        "730iL"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The BMW 730iL model has a 3.0L volume and an M60B30 V8 engine using petrol fuel."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "735i",
+        "ENGINE",
+        "M62B35 V8"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "MODEL",
+        "735i"
+      ],
+      [
+        "M62B35 V8",
+        "VOLUME",
+        "3.5L"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "BMW 7 Series (E38)"
+      ],
+      [
+        "M62B35 V8",
+        "POWER/TORQUE",
+        "173 kW (235 PS; 232 hp) / 320 N\u00b7m (236 lb\u00b7ft)"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The BMW 735i model has a 3.5L volume, 173 kW (235 PS; 232 hp) power, and 320 N\u00b7m (236 lb\u00b7ft) torque"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "735i",
+        "ENGINE",
+        "M62TUB35 V8"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "MODEL",
+        "735i"
+      ],
+      [
+        "M62TUB35 V8",
+        "FUEL",
+        "Petrol"
+      ],
+      [
+        "M62TUB35 V8",
+        "VOLUME",
+        "3.5L"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "BMW 7 Series (E38)"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The BMW 7 Series (E38) 735i model runs on Petrol and has a volume of 3.5L."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "M62B44 V8",
+        "POWER/TORQUE",
+        "210 kW (286 PS; 282 hp) / 420 N\u00b7m (310 lb\u00b7ft)"
+      ],
+      [
+        "740i",
+        "ENGINE",
+        "M62B44 V8"
+      ],
+      [
+        "740i",
+        "PRODUCED",
+        "88853"
+      ],
+      [
+        "740i",
+        "YEARS_PRODUCED",
+        "1996-1998"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "BMW 7 Series includes the 740i model with the M62B44 engine with 282 hp from the year 1996 to 1998, where 88853 were produced."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Bionicle Heroes",
+        "GENRE",
+        "Third-person shooter"
+      ],
+      [
+        "Bionicle Heroes",
+        "CONSOLE",
+        "PlayStation 2, GameCube, Xbox, Xbox 360, Wii"
+      ],
+      [
+        "Bionicle Heroes",
+        "HANDHELD",
+        "Nintendo DS"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Released for PS2, GameCube, Xbox, Xbox 360, and the Wii, Bionicle Heroes is a third-person shooter game that was also released in a Nintendo DS handheld version."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Bionicle: Matoran Adventures",
+        "HANDHELD",
+        "Game Boy Advance"
+      ],
+      [
+        "Bionicle: Matoran Adventures",
+        "RELEASE",
+        "2002"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Debuted in 2002, Bionicle: Matoran Adventures is a Lego video game for the Game Boy Advance platform."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Lego Battles",
+        "HANDHELD",
+        "Nintendo DS"
+      ],
+      [
+        "Lego Battles",
+        "GENRE",
+        "Real-time strategy"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Lego Battles is a real-time strategy video game for the Nintendo DS."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Lego Creator: Knights Kingdom",
+        "GENRE",
+        "Construction and management simulation"
+      ],
+      [
+        "Lego Creator: Knights Kingdom",
+        "RELEASE",
+        "2000"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "As a construction and management simulation game, Lego Creator: Knights Kingdom was released in 2000."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Lego Island 2 The Brickster's Revenge",
+        "COMPUTER",
+        "Windows"
+      ],
+      [
+        "Lego Island 2 The Brickster's Revenge",
+        "CONSOLE",
+        "PlayStation"
+      ],
+      [
+        "Lego Island 2 The Brickster's Revenge",
+        "GENRE",
+        "Action-adventure"
+      ],
+      [
+        "Lego Island 2 The Brickster's Revenge",
+        "HANDHELD",
+        "Game Boy Color, Game Boy Advance"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "An action adventure game, Lego Island 2 The Brickster's Revenge was released for Windows, PlayStation, and the Game Boy Advance."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "36",
+        "PLAYER",
+        "Anthony Mason"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "PICK_#",
+        "36"
+      ],
+      [
+        "36",
+        "CFL_TEAM",
+        "Hamilton Tiger-Cats"
+      ],
+      [
+        "Anthony Mason",
+        "POSITION",
+        "OL"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Round Five"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The Hamilton Tiger-Cats drafted an OL."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Craig Zimmer",
+        "COLLEGE",
+        "Regina"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Craig Zimmer went to Regina."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "41",
+        "PLAYER",
+        "Craig Zimmer"
+      ],
+      [
+        "Craig Zimmer",
+        "POSITION",
+        "LB"
+      ],
+      [
+        "41",
+        "CFL_TEAM",
+        "Saskatchewan Roughriders"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The player who is LB and whose CFL team is the Saskatchewan Roughriders is Craig Zimmer."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "43",
+        "CFL_TEAM",
+        "Winnipeg Blue Bombers"
+      ],
+      [
+        "43",
+        "PLAYER",
+        "Ryan Folk"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The CFL team with Ryan Folk is the Winnipeg Blue Bombers."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Ljungskile SK"
+      ],
+      [
+        "1993",
+        "LEVEL",
+        "Tier 3"
+      ],
+      [
+        "Tier 3",
+        "DIVISION",
+        "Division 2"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "SEASON",
+        "1993"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Ljungskile SK played at Tier 3 Division 2 in 1993."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "SEASON",
+        "1996"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Ljungskile SK"
+      ],
+      [
+        "1996",
+        "LEVEL",
+        "Tier 2"
+      ],
+      [
+        "Division 1",
+        "SECTION",
+        "S\u00f6dra"
+      ],
+      [
+        "Tier 2",
+        "DIVISION",
+        "Division 1"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Ljungskile SK played at Tier 2, Divison 1 S\u00f6dra."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "SEASON",
+        "2001"
+      ],
+      [
+        "2001",
+        "MOVEMENTS",
+        "Panos Ljungskile SK - Promotion Playoffs"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Ljungskile SK"
+      ],
+      [
+        "2001",
+        "POSITION",
+        "1st"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Ranked 1st in the 2001 season, Ljungskile SK took part in the Promotion Playoffs."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2004",
+        "MOVEMENTS",
+        "Promotion Playoffs - Promoted"
+      ],
+      [
+        "2004",
+        "POSITION",
+        "1st"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Sports stats for Ljungskile SK"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "SEASON",
+        "2005"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Ljungskile SK"
+      ],
+      [
+        "2005",
+        "LEVEL",
+        "Tier 2"
+      ],
+      [
+        "2005",
+        "POSITION",
+        "4th"
+      ],
+      [
+        "Tier 2",
+        "DIVISION",
+        "Superettan"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Ljungskile SK once ranked 4th in Tier 2 Superettan."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Ljungskile SK"
+      ],
+      [
+        "2007",
+        "LEVEL",
+        "Tier 2"
+      ],
+      [
+        "Tier 2",
+        "DIVISION",
+        "Superettan"
+      ],
+      [
+        "2007",
+        "MOVEMENTS",
+        "Promoted"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "SEASON",
+        "2007"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "After finishing 2007 in the Superettan Division, the Ljungskile SK was promoted."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2006*",
+        "POSITION",
+        "6th"
+      ],
+      [
+        "2006*",
+        "LEVEL",
+        "Tier 2"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Ljungskile SK"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "SEASON",
+        "2006*"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Ljungskile finished in 6th on tier 2 in 2006."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2003",
+        "POSITION",
+        "2nd"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Ljungskile SK"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "SEASON",
+        "2003"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Ljungskile SK was in 2nd place during the 2003 season."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "charisma",
+        "U.S._VIEWERS_(MILLIONS)",
+        "16.38"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "\"Charisma\" had 16.38 million U.S. viewers."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "obscene",
+        "PRODUCTION_CODE",
+        "e5205"
+      ],
+      [
+        "obscene",
+        "ORIGINAL_AIR_DATE",
+        "october 12, 2004"
+      ],
+      [
+        "obscene",
+        "WRITTEN_BY",
+        "jos\u00e9 molina"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The production code of the episode written by Jos\u00e9 Molina that aired on October 12, 2004 is e5205."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "quarry",
+        "ORIGINAL_AIR_DATE",
+        "january 25, 2005"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The original air date of the episode \"Quarry\" was January 25, 2005."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "hooked",
+        "DIRECTED_BY",
+        "jean de segonzac"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "\"Hooked\" was directed by Jean de Segonzac."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1",
+        "ATTENDANCE",
+        "8,024"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "8,024 people showed up for the first game."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "5",
+        "DATE",
+        "January 29, 2006"
+      ],
+      [
+        "5",
+        "OPPONENT",
+        "Rochester Knighthawks"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "They will play their fifth game, with the Rochester Knighthawks as their opponent, on January 29."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "7",
+        "OPPONENT",
+        "Philadelphia Wings"
+      ],
+      [
+        "7",
+        "LOCATION",
+        "Xcel Energy Center"
+      ],
+      [
+        "7",
+        "DATE",
+        "February 10, 2006"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The match against the Philadelphia Wings will be held on February 10, 2006, at the Xcel Energy Center."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "11",
+        "SCORE",
+        "W 14-12"
+      ],
+      [
+        "11",
+        "RECORD",
+        "6-5"
+      ],
+      [
+        "11",
+        "DATE",
+        "March 17, 2006"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The team won 14-12 on 17 March, bringing their record to 6-5."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "13",
+        "OPPONENT",
+        "Toronto Rock"
+      ],
+      [
+        "13",
+        "SCORE",
+        "W 10-9"
+      ],
+      [
+        "13",
+        "DATE",
+        "April 1, 2006"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Their 10-9 victory over the Toronto Rock occured on 1 April."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "GAME",
+        "3"
+      ],
+      [
+        "3",
+        "ATTENDANCE",
+        "10,637"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2006 Minnesota Swarm season"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "In game 3 of the 2006 Swarm there were 10,637 in attendance."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "9",
+        "DATE",
+        "March 3, 2006"
+      ],
+      [
+        "9",
+        "ATTENDANCE",
+        "15,830"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2006 Minnesota Swarm season"
+      ],
+      [
+        "9",
+        "OPPONENT",
+        "@ Toronto Rock"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "GAME",
+        "9"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "During the 2006 Minnesota Swarm Season, the 9th game was on March 3, 2006 against Toronto Rock in front of a crowd of 15830 people."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Cardiss Collins",
+        "PARTY",
+        "Democratic"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Cardiss Collins belongs to democratic."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Alabama 6",
+        "INCUMBENT",
+        "William B. Oliver"
+      ],
+      [
+        "Alabama 6",
+        "CANDIDATES",
+        "William B. Oliver (D) Unopposed"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "William b. oliver was the incumbent when ran william b. oliver (d) unopposed."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Extra Preliminary Round",
+        "LEAGUES_ENTERING_AT_THIS_ROUND",
+        "Levels 9 and 10 in football league pyramid"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Levels 9 and 10 in football league pyramid entered an extra preliminary round."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Fourth Round Qualifying",
+        "NEW_ENTRIES_THIS_ROUND",
+        "24"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Fourth round qualifying had 24 new entries."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Fourth Round Proper",
+        "CLUBS_INVOLVED",
+        "32"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Fourth round proper had 32 clubs involved."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Fifth Round Proper",
+        "LEAGUES_ENTERING_AT_THIS_ROUND",
+        "none"
+      ],
+      [
+        "Fifth Round Proper",
+        "WINNERS_FROM_PREVIOUS_ROUND",
+        "16"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "None entered in rounds where there were 16 winners from the previous round."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "le secret d'on\u00e9sime",
+        "ENGLISH_TITLE",
+        "papa bramble's secret"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The French title for \"Papa Bramble's Secret is\" le secret d'on\u00e9sime \"."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "22",
+        "FRENCH_TITLE",
+        "le secret d'on\u00e9sime"
+      ],
+      [
+        "le secret d'on\u00e9sime",
+        "ENGLISH_TITLE",
+        "papa bramble's secret"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The English title for the official number 22 episode is \"papa bramble's secret."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "4th",
+        "BATTING_TEAM",
+        "Prime Doleshwar"
+      ],
+      [
+        "4th",
+        "RUNS",
+        "276"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The batting team where the runs are 276 is prime doleshwar."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "6th",
+        "BATTING_PARTNERS",
+        "Nigel Llong and Matthew Fleming"
+      ],
+      [
+        "6th",
+        "RUNS",
+        "226"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The batting partners with runs of 226 is nigel llong and matthew fleming."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "7th",
+        "BATTING_PARTNERS",
+        "Thilina Kandamby and Rangana Herath"
+      ],
+      [
+        "7th",
+        "BATTING_TEAM",
+        "Sri Lanka A"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The batting team with the batting partnets of thilina kandamby and rangana herath is sri lanka a."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "9th",
+        "RUNS",
+        "155"
+      ],
+      [
+        "9th",
+        "FIELDING_TEAM",
+        "Durham"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The fielding team with 155 runs is durham."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "PCMU",
+        "TYPE",
+        "audio"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "PCMU has an audio type"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "reserved (previously 1016)",
+        "NO._OF_CHANNELS",
+        "1"
+      ],
+      [
+        "reserved (previously 1016)",
+        "TYPE",
+        "audio"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "reserved (previously 1016) has an audio type with 1 channel"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "reserved (previously G721)",
+        "NO._OF_CHANNELS",
+        "1"
+      ],
+      [
+        "reserved (previously G721)",
+        "CLOCK_RATE_(HZ)",
+        "8000"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "reserved (previously G721) has 1 channel and 8000 Hz clock rate"
+      },
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "GSM",
+        "PAYLOAD_TYPE_(PT)",
+        "3"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "GSM has 3 Payload type (PT)"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "G723",
+        "FRAME_SIZE_(MS)",
+        "30"
+      ],
+      [
+        "G723",
+        "TYPE",
+        "audio"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "G723 of audio type has 30 ms Frame size"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Don Albert Pardee",
+        "STATE",
+        "LA"
+      ],
+      [
+        "Don Albert Pardee",
+        "BORN/DIED",
+        "1837-1919"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Judge Don Albert Pardee from state LA was born in 1837 and died in 1919"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Andrew Phelps McCormick",
+        "STATE",
+        "TX"
+      ],
+      [
+        "Andrew Phelps McCormick",
+        "ACTIVE",
+        "1892-1916"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Judge Andrew Phelps McCormick from state TX is active during 1892 and 1916"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "David Davie Shelby",
+        "BORN/DIED",
+        "1847-1914"
+      ],
+      [
+        "David Davie Shelby",
+        "ACTIVE",
+        "1899-1914"
+      ],
+      [
+        "David Davie Shelby",
+        "STATE",
+        "AL"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Judge David Davie Shelby from state AL was born in 1847 and died in 1914, and is active during 1899 and 1914"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Richard Wilde Walker, Jr.",
+        "APPOINTED_BY",
+        "Wilson"
+      ],
+      [
+        "Richard Wilde Walker, Jr.",
+        "STATE",
+        "AL"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Judge Richard Wilde Walker, Jr. from state AL is appointed by Wilson"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Rufus Edward Foster",
+        "ACTIVE",
+        "1925-1942"
+      ],
+      [
+        "Rufus Edward Foster",
+        "STATE",
+        "LA"
+      ],
+      [
+        "Rufus Edward Foster",
+        "APPOINTED_BY",
+        "Coolidge"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Judge Rufus Edward Foster from LA state appointed by Coolidge is active during 1925 and 1942"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Samuel Hale Sibley",
+        "BORN/DIED",
+        "1873-1958"
+      ],
+      [
+        "Samuel Hale Sibley",
+        "ACTIVE",
+        "1931-1949"
+      ],
+      [
+        "Samuel Hale Sibley",
+        "APPOINTED_BY",
+        "Hoover"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Samuel Hale Sibley (1873-1958) was appointed by Hoover, and served from 1931 to 1949."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "9 Jun",
+        "TOURNAMENT",
+        "North Open"
+      ],
+      [
+        "North Open",
+        "PURSE_($)",
+        "80,000"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "On June 9th, the North Open Golf Tournament began with a grand purse of 80,000."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "South Open",
+        "PURSE_($)",
+        "100,000"
+      ],
+      [
+        "3 Mar",
+        "TOURNAMENT",
+        "South Open"
+      ],
+      [
+        "South Open",
+        "WINNER",
+        "Rafael G\u00f3mez"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "3rd March South Open Tournament winner is rafeal gomez and a prize value is 100000"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "SS3",
+        "DAY",
+        "1 (13 MAR)"
+      ],
+      [
+        "SS3",
+        "WINNER",
+        "S\u00e9bastien Loeb"
+      ],
+      [
+        "1 (13 MAR)",
+        "TIME_(EET)",
+        "10:46"
+      ],
+      [
+        "S\u00e9bastien Loeb",
+        "TIME",
+        "21:09.2"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The time (EET) was 10:46 and the time was 21:09.2."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2 (14 MAR)",
+        "TIME_(EET)",
+        "15:17"
+      ],
+      [
+        "SS10",
+        "DAY",
+        "2 (14 MAR)"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Stage ss10 has time 15:17."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "SS11",
+        "NAME",
+        "Kourdali"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Stage ss11 is named kourdali."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "we're off to see the wizard",
+        "ORIGINAL_AIR_DATE",
+        "april25,2002"
+      ],
+      [
+        "we're off to see the wizard",
+        "PRODUCTION_CODE",
+        "4301085"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "April25,2002 did the episode with a production code of 4301085 originally air."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "marry-go-round",
+        "ORIGINAL_AIR_DATE",
+        "march14,2002"
+      ],
+      [
+        "marry-go-round",
+        "SEASON_#",
+        "15"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Episode 15 of the season originally air march14,2002."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1",
+        "DATE",
+        "September 12, 1982"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Week 1 was September 12, 1982."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "2",
+        "OPPONENT",
+        "at Tampa Bay Buccaneers"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "In week 2, the Washington Redskins played the Tampa Bay Buccaneers."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Philadelphia Eagles",
+        "RESULT",
+        "W 13-9"
+      ],
+      [
+        "11",
+        "GAME_SITE",
+        "RFK Stadium"
+      ],
+      [
+        "11",
+        "OPPONENT",
+        "Philadelphia Eagles"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "The Washington Redskins W 13-9 at RFK Stadium."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "13",
+        "GAME_SITE",
+        "Busch Memorial Stadium"
+      ],
+      [
+        "Busch Memorial Stadium",
+        "ATTENDANCE",
+        "35308"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "There were 35308 in attendance in week 13."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "W 15-14",
+        "RECORD",
+        "6-1"
+      ],
+      [
+        "New York Giants",
+        "RESULT",
+        "W 15-14"
+      ],
+      [
+        "14",
+        "OPPONENT",
+        "New York Giants"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Week 14 resulted in a 6-1 record for the Washington Redskins."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "14",
+        "DATE",
+        "december 19, 1982"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The date of the game in week 14 was december 19, 1982."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Jason",
+        "NET_VOTE",
+        "34.46%"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Jason had a net vote of 34.46%."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "5711696",
+        "%_OF_VOTES_NATIONALLY",
+        "19.43"
+      ],
+      [
+        "Mahmoud Ahmadinejad",
+        "VOTES_NATIONALLY",
+        "5711696"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The percentage of national votes for Mahmoud Ahmadinejad was 19.43."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Nant Conwy RFC",
+        "POINTS",
+        "80"
+      ],
+      [
+        "Nant Conwy RFC",
+        "TRIES_FOR",
+        "83"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "80 points were made with 83 tries."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Ruthin RFC",
+        "TRY_BONUS",
+        "4"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The try bonus for Ruthin RFC is 4."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Llandudno RFC",
+        "LOSING_BONUS",
+        "4"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Llandudno RFC has 4 losing points."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Llangefni RFC",
+        "LOSING_BONUS",
+        "5"
+      ],
+      [
+        "Llangefni RFC",
+        "POINTS",
+        "24"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The losing bonus was 5 when the points were 24."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Tenbosse",
+        "PAVEMENT",
+        "asphalt"
+      ],
+      [
+        "Tenbosse",
+        "KILOMETER",
+        "233"
+      ],
+      [
+        "Tenbosse",
+        "LENGTH_(M)",
+        "455"
+      ],
+      [
+        "Tenbosse",
+        "AVERAGE_CLIMB_(%)",
+        "64"
+      ],
+      [
+        "4",
+        "NAME",
+        "Tenbosse"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "4.0 have a kilometers of 233."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Peru Earthquake",
+        "SCALE_OF_DISASTER",
+        "250k homeless"
+      ],
+      [
+        "Peru Earthquake",
+        "YEAR",
+        "2007"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The Peru Earthquake in 2007 left 250,000 people homeless."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Genealogy of Jesus",
+        "MATTHEW",
+        "Matthew 01:01-17"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The genealogy of Jesus is in Matthew 01:01-17."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Birth of Jesus",
+        "LUKE",
+        "Luke 02:01-07"
+      ],
+      [
+        "Birth of Jesus",
+        "TYPE",
+        "nativity"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The nativity event of the birth of Jesus is in Luke 02:01-07."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "John the Baptist",
+        "MARK",
+        "Mark 01:01-08"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "John the Baptist is in Mark 01:01-08."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Temptation of Jesus",
+        "MARK",
+        "Mark 01:12-13"
+      ],
+      [
+        "Temptation of Jesus",
+        "MATTHEW",
+        "Matthew 04:01-11"
+      ],
+      [
+        "Temptation of Jesus",
+        "LUKE",
+        "Luke 04:01-13"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The temptation of Jesus is an event in Matthew 04:01-11, Mark 01:12-13, and Luke 04:01-13."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Marriage at Cana",
+        "JOHN",
+        "John 02:01-11"
+      ],
+      [
+        "Marriage at Cana",
+        "TYPE",
+        "miracle"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Marriage at Cana is a miracle in John 02:01-11."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Manuel Pellegrini",
+        "DATE_OF_APPOINTMENT",
+        "2 November 2010"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Manuel pellegrini replaced on the date of appointment 2 november 2010."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Almer\u00eda",
+        "POSITION_IN_TABLE",
+        "19th"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The team for the position in table 19th is almer\u00eda."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Miguel \u00c1ngel Portugal",
+        "MANNER_OF_DEPARTURE",
+        "Sacked"
+      ],
+      [
+        "Racing Santander",
+        "OUTGOING_MANAGER",
+        "Miguel \u00c1ngel Portugal"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The manner of departure for the team racing santander is sacked."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Jos\u00e9 Antonio Camacho",
+        "REPLACED_BY",
+        "Jos\u00e9 Luis Mendilibar"
+      ],
+      [
+        "Jos\u00e9 Luis Mendilibar",
+        "DATE_OF_APPOINTMENT",
+        "14 February 2011"
+      ],
+      [
+        "Osasuna",
+        "OUTGOING_MANAGER",
+        "Jos\u00e9 Antonio Camacho"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The date of appointment for the team osasuna is 14 february 2011."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Esteban Vigo",
+        "REPLACED_BY",
+        "Miroslav \u0110uki\u0107"
+      ],
+      [
+        "H\u00e9rcules",
+        "OUTGOING_MANAGER",
+        "Esteban Vigo"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The team that the replaced by is miroslav \u0111uki\u0107 is h\u00e9rcules."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "The Truck Stops Here!",
+        "HIGHEST_SELLER",
+        "Adam"
+      ],
+      [
+        "The Truck Stops Here!",
+        "EPISODE",
+        "6"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Episode 6 of Restaurant Express is titled \"The Truck Stops Here!\"."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Vegas or Bust",
+        "EPISODE",
+        "7"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Episode 7 was called \"Vegas or Bust\"."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "NAACP Image Award for Outstanding Supporting Actor in a Motion Picture"
+      ],
+      [
+        "1971",
+        "SUPPORTING_ACTOR",
+        "NOT AWARDED"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "1971"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The NAACP Image Award for Outstanding Supporting Actor in a Motion Picture was not awarded in 1971."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "NAACP Image Award for Outstanding Supporting Actor in a Motion Picture"
+      ],
+      [
+        "1975",
+        "SUPPORTING_ACTOR",
+        "NOT AWARDED"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "1975"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The 1975 NAACP Image Award for Outstanding Supporting Actor in a Motion Picture was not awarded."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "NAACP Image Award for Outstanding Supporting Actor in a Motion Picture"
+      ],
+      [
+        "Moses Gunn",
+        "MOTION_PICTURE",
+        "Ragtime"
+      ],
+      [
+        "1982",
+        "SUPPORTING_ACTOR",
+        "Moses Gunn"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "1982"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In 1982 Moses Gunn won the NAACP Image Award for Outstanding Supporting Actor for the movie Ragtime."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "1992"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "NAACP Image Award for Outstanding Supporting Actor in a Motion Picture"
+      ],
+      [
+        "1992",
+        "SUPPORTING_ACTOR",
+        "Denzel Washington"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Denzel Washington received the NAACP Image Award for Outstanding Supporting Actor in 1992."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "YEAR",
+        "1998"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "NAACP Image Award for Outstanding Supporting Actor in a Motion Picture"
+      ],
+      [
+        "Morgan Freeman",
+        "MOTION_PICTURE",
+        "Amistad"
+      ],
+      [
+        "1998",
+        "SUPPORTING_ACTOR",
+        "Morgan Freeman"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The winner of the NAACP Image Award for Outstanding Supporting Actor was Morgan Freeman for the Motion Picture Amistad."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1974",
+        "SUPPORTING_ACTOR",
+        "NOT AWARDED"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The NAACP Image Award for Outstanding Supporting Actor wasn't awarded in 1974."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1973",
+        "SUPPORTING_ACTOR",
+        "NOT AWARDED"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "In 1973 supporting actor not awarded."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1970",
+        "SUPPORTING_ACTOR",
+        "Redd Foxx"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Redd Foxx was a supporting actor in a movie in 1970."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Rivi\u00e8re-Verte",
+        "AREA_KM2",
+        "715.58"
+      ],
+      [
+        "Rivi\u00e8re-Verte",
+        "POPULATION",
+        "791"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The population that has an area of 715.58 is 791.0."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Caral",
+        "YEAR",
+        "2627 BC"
+      ],
+      [
+        "Caral",
+        "COUNTRY",
+        "Peru"
+      ],
+      [
+        "Caral",
+        "STATE,_PROVINCE,_DEPT.,_ETC.",
+        "Norte Chico"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Caral, Norte Chico of Peru were founded in 2627 BC."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Boston, Massachusetts",
+        "NBA_TEAM(S)",
+        "Celtics"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "The NBA team in Boston, Massachusetts are the Celtics."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Denver, Colorado",
+        "HOSTED_4_TEAMS_SINCE",
+        "1995"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Denver, Colorado has hosted teams from all four major league sports since 1995."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Miami, Florida",
+        "NFL_TEAM(S)",
+        "Dolphins ( Miami Gardens, FL )"
+      ],
+      [
+        "Miami, Florida",
+        "MLB_TEAM(S)",
+        "Marlins"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "The Miami metro area hosts the Dolphins and the Marlins."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Philadelphia, Pennsylvania",
+        "HOSTED_4_TEAMS_SINCE",
+        "1967"
+      ],
+      [
+        "Philadelphia, Pennsylvania",
+        "MEDIA_MARKET_RANKING",
+        "4"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Philadelphia, Pennsylvania, the metro area that is 4th in the media market rankings, have hosted teams from all four major leagues since 1967."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "San Francisco Bay Area, California",
+        "NHL_TEAM(S)",
+        "Sharks ( San Jose )"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "The San Francisco Bay Area, California, hosts the Sharks, a NHL team from San Jose."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "8",
+        "SAFE",
+        "Kelly and Brendan"
+      ],
+      [
+        "8",
+        "ELIMINATED",
+        "John and Nicole"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Kelly and Brendan were safe, but John and Nicole were eliminated."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "K-1 200 m",
+        "GOLD",
+        "Lisa Carrington (NZL)"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Lisa Carrington won Gold in K-1 200 m."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Krisztina Fazekas Zur (USA)",
+        "SILVER_TIME",
+        "4:13.470"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Krisztina Fazekas Zur won silver with a time of 4:13.470."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Australia Joanne Brigden-Jones Hannah Davis",
+        "BRONZE_TIME",
+        "38.369"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "The Australia team of Joanne Brigden and Hannah Davis won bronze with a time of 38.369."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "K-2 1000 m",
+        "SILVER",
+        "Bulgaria Berenike Faldum Daniela Nedeva"
+      ],
+      [
+        "K-2 1000 m",
+        "GOLD",
+        "Germany Anne Knorr Debora Niche"
+      ],
+      [
+        "K-2 1000 m",
+        "BRONZE",
+        "Hungary Al\u00edz Sarudi Erika Medveczky"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Anne Knorr won gold, Berenike Faldum won silver, and Al\u00edz Satudi won bronze."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2011 ICF Canoe Sprint World Championships"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "EVENT",
+        "K-1 4x200 m Relay"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "K-1 4x200 m Relay was an event at the 2011 ICF Canoe Spring World Championships."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "John F. Amodeo",
+        "DISTRICT",
+        "District 2"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "New Jersey General Assembly, 2012-13 term"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "NAME",
+        "John F. Amodeo"
+      ],
+      [
+        "John F. Amodeo",
+        "FIRST_SERVED",
+        "2008"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "John F. Amodeo first served as the representative for District 2 of the New Jersey General Assembly in 2008."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Celeste Riley",
+        "DISTRICT",
+        "District 3"
+      ],
+      [
+        "Celeste Riley",
+        "FIRST_SERVED",
+        "2009\u2020"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "celeste riley served first in district 3 in 2009."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Homo sapiens",
+        "NCBI_ACCESSION_NUMBER_(MRNA/PROTEIN)",
+        "NM_014157.3 / NP_054876.2"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The NCBI Accession Number of the Homo Sapiens species is nm_014157.3 / np_054876.2."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Felis catus",
+        "SPECIES_COMMON_NAME",
+        "Cat"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The common name for the Felis Catus species is cat."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Asian Junior Championships",
+        "EVENT",
+        "110 m hurdles"
+      ],
+      [
+        "Asian Junior Championships",
+        "YEAR",
+        "2001"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "COMPETITION",
+        "Asian Junior Championships"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Shi Dongpeng"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Shi Dongpeng competed in the 110 m hurdled at the 2001 Asian Junior Championships."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Shi Dongpeng"
+      ],
+      [
+        "Asian Championships",
+        "POSITION",
+        "1st"
+      ],
+      [
+        "Asian Championships",
+        "VENUE",
+        "Manila, Philippines"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "COMPETITION",
+        "Asian Championships"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Shi Dongpeng won the Asian Championships in Manila, Philippines."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Shi Dongpeng"
+      ],
+      [
+        "World Championships",
+        "EVENT",
+        "110 m hurdles"
+      ],
+      [
+        "World Championships",
+        "VENUE",
+        "Osaka, Japan"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "COMPETITION",
+        "World Championships"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In 2007, in Osaka, Japan, Shi Dongpeng competed in the 110 m hurdles."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Shi Dongpeng"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "COMPETITION",
+        "World Indoor Championships"
+      ],
+      [
+        "World Indoor Championships",
+        "YEAR",
+        "2010"
+      ],
+      [
+        "World Indoor Championships",
+        "NOTES",
+        "7.82"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In the 2010 World Indoor Championships, Shi Dongpend earned a 7.82 time."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "Shi Dongpeng"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "COMPETITION",
+        "World Indoor Championships"
+      ],
+      [
+        "World Indoor Championships",
+        "VENUE",
+        "Istanbul, Turkey"
+      ],
+      [
+        "World Indoor Championships",
+        "YEAR",
+        "2012"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Shi Dongpeng competed in Istanbul, Turkey in 2012."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "hammers and veils",
+        "DIRECTED_BY",
+        "michael katleman"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Michael katleman directed the episode \"hammers and veils\"."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "sadie, sadie",
+        "PROD._CODE",
+        "227451"
+      ],
+      [
+        "sadie, sadie",
+        "WRITER(S)",
+        "amy sherman-palladino"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Amy sherman - palladino directed the episode with production code 227451."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "back in the saddle again",
+        "DIRECTED_BY",
+        "kevin dowling"
+      ],
+      [
+        "back in the saddle again",
+        "ORIGINAL_AIR_DATE",
+        "april23,2002"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The original air date for the episode directed by kevin dowling is april23,2002."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "2007 National Cheerleading Championship"
+      ],
+      [
+        "UP Pep Squad",
+        "RESULT",
+        "Runner-up"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "TEAM",
+        "UP Pep Squad"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "In 2007, the National Cheerleading Championship team UP Pep Squad won runner-up."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Altas Perp Squad",
+        "PYRAMIDS",
+        "69.5"
+      ],
+      [
+        "Altas Perp Squad",
+        "TOSSES",
+        "53.5"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "The Altas Perp Squad got a 53.5 in tosses and 69.5 in pyramids at the 2007 National Cheerleading Championship."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Ateneo Blue Babble Batallion",
+        "TOSSES",
+        "47"
+      ],
+      [
+        "Ateneo Blue Babble Batallion",
+        "STUNTS",
+        "50"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Ateneo Blue Babble Batallion had 50 stunts and 47 tosses."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Mike Loach",
+        "NHL_TEAM",
+        "N.Y. Islanders"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Mike Loach plays for the N.Y. Islanders."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Peter Strom",
+        "NHL_TEAM",
+        "Montreal Canadiens"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The NHL team that has Peter Strom is Montreal Canadiens."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Keith McCambridge",
+        "YOUTH_CLUB",
+        "Swift Current Broncos (WHL)"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Keith Mccambridge used to play for the Swift Current Broncos (WHL)."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Kevin Bond",
+        "DATE_OF_APPOINTMENT",
+        "2 September 2008"
+      ],
+      [
+        "Kevin Bond",
+        "POSITION_IN_TABLE",
+        "23rd"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The date of appointment for the manager of the 23rd team was 2 september 2008."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Kurla Express",
+        "DESTINATION",
+        "Lokmanya Tilak (T) Mumbai"
+      ],
+      [
+        "Kurla Express",
+        "CATEGORY",
+        "Express"
+      ],
+      [
+        "Express",
+        "FREQUENCY",
+        "Daily"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "The Kurla Express train runs daily to Lokmanya Tilak (I) Mumbai."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Duronto Express",
+        "TRAIN_NO.",
+        "12243/12244"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Train number 12243/12244 is called Duronto Express."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Nilgiri Express (slip)",
+        "DESTINATION",
+        "Chennai"
+      ],
+      [
+        "Nilgiri Express (slip)",
+        "CATEGORY",
+        "SF Express"
+      ],
+      [
+        "SF Express",
+        "FREQUENCY",
+        "Daily"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Heading to Chennai, the Nilgiri Express runs daily."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Nilgiri Express (slip)",
+        "CATEGORY",
+        "SF Express"
+      ],
+      [
+        "SF Express",
+        "FREQUENCY",
+        "Daily"
+      ],
+      [
+        "Nilgiri Express (slip)",
+        "TRAIN_NO.",
+        "12671/12672"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Train number 12671/12672 has a daily frequency."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Intercity Express",
+        "CATEGORY",
+        "SF Express"
+      ],
+      [
+        "SF Express",
+        "FREQUENCY",
+        "Daily"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "The Intercity Express is a daily train."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Nagercoil Express",
+        "TRAIN_NO.",
+        "16609/16610"
+      ],
+      [
+        "Nagercoil Express",
+        "CATEGORY",
+        "Express"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The category for train number 16609/16610 is express."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Tuticorin Express",
+        "DESTINATION",
+        "Tuticorin"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Train tuticorin express has destination tuticorin."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "AC Express",
+        "TRAIN_NO.",
+        "22475/22476"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "The AC Express is numbered 22475/22476."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "richard vanquelef",
+        "NATIONALITY\u00b2",
+        "france"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Richard Vanquelef is from France."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "pierre vermeulen",
+        "NATIONALITY\u00b2",
+        "netherlands"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Pierre Vermeulen is from the Netherlands."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Stacy Schneider",
+        "RESULT",
+        "10 Fired in week 2 (3-6-2006)"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "When stacy schneider is the candidate 10 fired in week 2 (3-6-2006 are the results."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "12621/2622",
+        "TRAIN_NAME",
+        "Tamil Nadu Express"
+      ],
+      [
+        "12621/2622",
+        "ORIGIN",
+        "Chennai"
+      ],
+      [
+        "12621/2622",
+        "DESTINATION",
+        "New Delhi"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Train No.\t12621/2622 has a Origin and Destination of Chennai and New Delhi,Train Name was Tamil Nadu Express"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "11028/11027",
+        "DESTINATION",
+        "Mumbai"
+      ],
+      [
+        "11028/11027",
+        "ORIGIN",
+        "Chennai"
+      ],
+      [
+        "11028/11027",
+        "TRAIN_NAME",
+        "Mumbai Mail"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Train No.\t11028/11027 name of the train is Mumbai Mail has origin and Destination of Chennai to Mumbai"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Illinois 6",
+        "INCUMBENT",
+        "Henry Hyde"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Henry Hyde in is illinois 6"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "5,891",
+        "MCCAIN%",
+        "50.7%"
+      ],
+      [
+        "Adair",
+        "OBAMA#",
+        "5,735"
+      ],
+      [
+        "5,735",
+        "OBAMA%",
+        "49.3%"
+      ],
+      [
+        "Adair",
+        "MCCAIN#",
+        "5,891"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "United States presidential election in Missouri, 2008"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "COUNTY",
+        "Adair"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Obama received 49.3 % of votes while McCain received 50.7% in Adair, Missouri in the 2008 presidential elections."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Bates",
+        "OBAMA#",
+        "3,271"
+      ],
+      [
+        "Bates",
+        "MCCAIN#",
+        "4,833"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "United States presidential election in Missouri, 2008"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "COUNTY",
+        "Bates"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Obama received 3271 votes while McCain received 4833 in Bates, Missouri in the 2008 presidential elections."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "1,690",
+        "OBAMA%",
+        "29.8%"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "United States presidential election in Missouri, 2008"
+      ],
+      [
+        "Bollinger",
+        "OBAMA#",
+        "1,690"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "COUNTY",
+        "Bollinger"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "During the United States presidential election in 2008, Barack Obama earned 29.8% of the vote in Bollinger County, Missouri, with a total of 1,690 votes."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Boone",
+        "MCCAIN#",
+        "36,849"
+      ],
+      [
+        "Boone",
+        "OBAMA#",
+        "47,062"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "United States presidential election in Missouri, 2008"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "COUNTY",
+        "Boone"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In Boone County, Missouri, Obama received 47,062 votes while McCain received 36849 in the 2008 presidential elections."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Callaway",
+        "OBAMA#",
+        "7,850"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "COUNTY",
+        "Callaway"
+      ],
+      [
+        "7,850",
+        "OBAMA%",
+        "40.8%"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "United States presidential election in Missouri, 2008"
+      ],
+      [
+        "Callaway",
+        "TOTAL",
+        "19,239"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "Obama received 7850 votes, 40.8 % of the 19239 votes in Callaway County, Missouri in the 2008 presidential elections."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "COUNTY",
+        "Cedar"
+      ],
+      [
+        "Cedar",
+        "OBAMA#",
+        "2,060"
+      ],
+      [
+        "Cedar",
+        "MCCAIN#",
+        "4,194"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "United States presidential election in Missouri, 2008"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_lily",
+        "text": "In Cedar County, 2060 votes were casted for Obama while 4194 were for McCain in the 2008 presidential elections."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Alabama 5",
+        "INCUMBENT",
+        "Albert Rains"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Incumbent albert is rains from alabama 5."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Tonmawr RFC",
+        "PLAYED",
+        "22"
+      ],
+      [
+        "22",
+        "WON",
+        "20"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Tonmawr played 22 games and won 20 games."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Whitland RFC",
+        "POINTS",
+        "66"
+      ],
+      [
+        "22",
+        "DRAWN",
+        "2"
+      ],
+      [
+        "66",
+        "TRIES_AGAINST",
+        "36"
+      ],
+      [
+        "Whitland RFC",
+        "PLAYED",
+        "22"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The tries against when the drawn was 2 was 36."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Corus (Port Talbot) RFC",
+        "PLAYED",
+        "22"
+      ],
+      [
+        "22",
+        "DRAWN",
+        "1"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Corus RFC played 22 games and drew 1 game."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Corus (Port Talbot) RFC",
+        "PLAYED",
+        "22"
+      ],
+      [
+        "22",
+        "WON",
+        "12"
+      ],
+      [
+        "Corus (Port Talbot) RFC",
+        "POINTS",
+        "59"
+      ],
+      [
+        "59",
+        "POINTS_FOR",
+        "496"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The won when the points for was 496 was 12."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "54",
+        "POINTS_FOR",
+        "407"
+      ],
+      [
+        "Narberth RFC",
+        "POINTS",
+        "54"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Narberth RFC got 407 points for."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "54",
+        "POINTS_AGAINST",
+        "445"
+      ],
+      [
+        "54",
+        "LOSING_BONUS",
+        "4"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The losing bonus when the points against was 445 was 4."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Bridgend Ravens",
+        "POINTS",
+        "46"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "Bridgend Raven and had 46 club points."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Cwmllynfell RFC",
+        "PLAYED",
+        "22"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "WRU Division One West, 2009/2010 Table"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "CLUB",
+        "Cwmllynfell RFC"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_lily",
+        "text": "In WRU Dividion One West, Swmllynfell played 22 games."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "17",
+        "TRIES_AGAINST",
+        "89"
+      ],
+      [
+        "17",
+        "TRY_BONUS",
+        "0"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The was drawn 0 when the tries against was 89."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Justin McCarthy",
+        "DATE_OF_VACANCY",
+        "5 June 2008"
+      ],
+      [
+        "Justin McCarthy",
+        "REPLACED_BY",
+        "Davy FitzGerald"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The date of the vacancy, that Davy Fitzgerald replaced, was 5 June 2008."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Damien Fox",
+        "REPLACED_BY",
+        "Niall Rigney"
+      ],
+      [
+        "Niall Rigney",
+        "DATE_OF_APPOINTMENT",
+        "24 June 2008"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The date of appointment for the replacement for outgoing manager Damien Fox is 24 June 2008."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Galway",
+        "OUTGOING_MANAGER",
+        "John Meyler"
+      ],
+      [
+        "John Meyler",
+        "REPLACED_BY",
+        "Colm Bonnar"
+      ],
+      [
+        "Colm Bonnar",
+        "DATE_OF_APPOINTMENT",
+        "11 November 2008"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Team Galway's replacement's date of appointment is 11 November 2008."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Galway",
+        "OUTGOING_MANAGER",
+        "John Meyler"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Galway has the outgoing manager John Meyler."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Illinois 11",
+        "CANDIDATES",
+        "Frank R. Reid (R) 68.9% Edwin L. WIlson (D) 31.1%"
+      ],
+      [
+        "Frank R. Reid",
+        "FIRST_ELECTED",
+        "1922"
+      ],
+      [
+        "Illinois 11",
+        "INCUMBENT",
+        "Frank R. Reid"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Frank r. reid (r) 68.9% edwin l. wilson (d) 31.1% were the candidates in the 1922 entry."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Aidy Boothroyd",
+        "TEAM",
+        "Watford"
+      ],
+      [
+        "Aidy Boothroyd",
+        "POSITION_IN_TABLE",
+        "21st"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The team watford is 21st position in table"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Henry Hyde",
+        "FIRST_ELECTED",
+        "1974"
+      ],
+      [
+        "Illinois 6",
+        "INCUMBENT",
+        "Henry Hyde"
+      ],
+      [
+        "Illinois 6",
+        "CANDIDATES",
+        "Henry Hyde (R) 67.0% Mario Reymond Reda (D) 33.0%"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Henry hyde (r) 67.0% mario reymond reda (d) 33.0% were featured in the 1974 election."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Illinois 12",
+        "RESULT",
+        "Re-elected"
+      ],
+      [
+        "Phil Crane",
+        "FIRST_ELECTED",
+        "1969"
+      ],
+      [
+        "Phil Crane",
+        "PARTY",
+        "Republican"
+      ],
+      [
+        "Illinois 12",
+        "CANDIDATES",
+        "Phil Crane (R) 74.1% David McCartney (D) 25.9%"
+      ],
+      [
+        "Illinois 12",
+        "INCUMBENT",
+        "Phil Crane"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Incumbent phil crane was first elected in 1969.0."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Illinois 20",
+        "RESULT",
+        "Re-elected"
+      ],
+      [
+        "Illinois 20",
+        "INCUMBENT",
+        "Paul Findley"
+      ],
+      [
+        "Paul Findley",
+        "FIRST_ELECTED",
+        "1960"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The result of the election when someone was first elected in 1960 was re- elected."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "hell toupee",
+        "ORIGINAL_AIR_DATE",
+        "september 24, 1993"
+      ],
+      [
+        "hell toupee",
+        "DIRECTED_BY",
+        "john tracy"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "John tracy was the director for the episode airing on September 24, 1993."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "car wars",
+        "WRITTEN_BY",
+        "sheila m. anthony"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Sheila m. anthony wrote the episode \"car wars\"."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "eleven angry jurors",
+        "U.S._VIEWERS_(MILLIONS)",
+        "27.48"
+      ],
+      [
+        "eleven angry jurors",
+        "DIRECTED_BY",
+        "matt earl beesley"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "27.48 million tuned into the show directed by Matt Earl Beesley."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Texas 3",
+        "INCUMBENT",
+        "Lindley Beckworth"
+      ],
+      [
+        "Texas 3",
+        "RESULT",
+        "Re-elected"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The result of the election in which Lindley Beckworth was the incumbent was re- elected."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Wisconsin 1",
+        "INCUMBENT",
+        "Les Aspin"
+      ],
+      [
+        "Wisconsin 1",
+        "RESULT",
+        "Re-elected"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The final result for Les Aspin was re- elected."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Wisconsin 5",
+        "INCUMBENT",
+        "Jim Moody"
+      ],
+      [
+        "Jim Moody",
+        "FIRST_ELECTED",
+        "1982"
+      ],
+      [
+        "Wisconsin 5",
+        "CANDIDATES",
+        "Jim Moody (D) 64.2% Helen I. Barnhill (R) 35.8%"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Jim moody (d) 64.2% helen i. barnhill (r) 35.8% were the candidates that ran when Jim Moody was up for reelection after 1982."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "slave",
+        "PRODUCTION_CODE",
+        "k0122"
+      ],
+      [
+        "slave",
+        "DIRECTED_BY",
+        "jace alexander"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The episode with production code k0122 was directed by Jace alexander."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "encore",
+        "ORIGINAL_AIR_DATE",
+        "february 28, 1996"
+      ],
+      [
+        "encore",
+        "PRODUCTION_CODE",
+        "k0120"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The airdate of the episode with production code k0120 was february 28, 1996."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        " piece of my heart ",
+        "DIRECTED_BY",
+        "mark tinker"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The title of the episode directed by Mark Tinker is \"Piece of my Heart\"."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "girls just wanna have fun",
+        "ORIGINAL_AIR_DATE",
+        "november 7, 1997"
+      ],
+      [
+        "girls just wanna have fun",
+        "DIRECTED_BY",
+        "patrick duffy"
+      ],
+      [
+        "girls just wanna have fun",
+        "WRITTEN_BY",
+        "mindy schneider"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Mindy Schneider wrote the episode directed by Patrick Duffy that aired on November 7, 1997."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Illinois 2",
+        "RESULT",
+        "Lost re-election Republican gain"
+      ],
+      [
+        "Barratt O'Hara",
+        "FIRST_ELECTED",
+        "1948"
+      ],
+      [
+        "Illinois 2",
+        "CANDIDATES",
+        "Richard B. Vail (R) 53.6% Barratt O'Hara (D) 46.4%"
+      ],
+      [
+        "Illinois 2",
+        "INCUMBENT",
+        "Barratt O'Hara"
+      ],
+      [
+        "Barratt O'Hara",
+        "PARTY",
+        "Democratic"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Incumbent barratt o'hara was first elected in 1948.0."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Sid Simpson",
+        "PARTY",
+        "Republican"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Sid simpson represents republican."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "compromising positions",
+        "NO._IN_SERIES",
+        "53"
+      ],
+      [
+        "compromising positions",
+        "DIRECTED_BY",
+        "paul holahan"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Paul holahan directed episode 53 in the series."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "parting shots",
+        "PRODUCTION_CODE",
+        "bcw404"
+      ],
+      [
+        "parting shots",
+        "DIRECTED_BY",
+        "robert duncan mcneill"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Bcw404 directed by Robert Duncan McNeill."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "vested interest",
+        "SEASON_#",
+        "10"
+      ],
+      [
+        "vested interest",
+        "DIRECTED_BY",
+        "russell lee fine"
+      ],
+      [
+        "vested interest",
+        "WRITTEN_BY",
+        "jeff eastin"
+      ],
+      [
+        "vested interest",
+        "NO._IN_SERIES",
+        "56"
+      ],
+      [
+        "vested interest",
+        "PRODUCTION_CODE",
+        "bcw410"
+      ],
+      [
+        "vested interest",
+        "U.S._VIEWERS_(MILLION)",
+        "3.41"
+      ],
+      [
+        "vested interest",
+        "ORIGINAL_AIR_DATE",
+        "september18,2012"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "10.0 had BCW410 as a production code."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "the northern uprising",
+        "SEASON_#",
+        "2"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "\"The Northern Uprising\" was 2nd in the season."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "all in the family",
+        "NO._IN_SERIES",
+        "28"
+      ],
+      [
+        "all in the family",
+        "DIRECTED_BY",
+        "keith gordon"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Keith gordon directed episode 28 in the series."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "go your own way",
+        "DIRECTED_BY",
+        "john dahl"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "John dahl directed \"go your own way\"."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Illinois 3",
+        "RESULT",
+        "Lost re-election Democratic gain"
+      ],
+      [
+        "Illinois 3",
+        "INCUMBENT",
+        "Fred E. Busbey"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The result when incumbent Fred E. Busbey was elected was lost re-election democratic gain."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Illinois 16",
+        "INCUMBENT",
+        "Leo E. Allen"
+      ],
+      [
+        "Illinois 16",
+        "RESULT",
+        "Re-elected"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The result when Leo E. Allen was elected was re- elected."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Oklahoma 3",
+        "RESULTS",
+        "Re-elected"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The results for the district oklahoma 3 was re- elected."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Oklahoma 5",
+        "RESULTS",
+        "Re-elected"
+      ],
+      [
+        "Oklahoma 5",
+        "INCUMBENT",
+        "Ernest Istook"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The results when the incumbent was ernest istook was re- elected."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Oklahoma 5",
+        "CANDIDATES",
+        "Ernest Istook (R) 69% Garland McWatters (D) 28%"
+      ],
+      [
+        "Oklahoma 5",
+        "INCUMBENT",
+        "Ernest Istook"
+      ],
+      [
+        "Ernest Istook",
+        "PARTY",
+        "Republican"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The party when the candidates were ernest istook (r) 69% garland mcwatters (d) 28 is republican%?"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Oklahoma 5",
+        "RESULTS",
+        "Re-elected"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The results for the district oklahoma 5 were re- elected."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "philippe jeannol",
+        "PERIOD",
+        "1984 - 1991"
+      ],
+      [
+        "philippe jeannol",
+        "APPEARANCES\u00b9",
+        "219"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Philippe Jeannol had 219 appearances during the period 1984 - 1991."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "[TABLECONTEXT]",
+        "DISTRICT",
+        "Virginia 5"
+      ],
+      [
+        "[TABLECONTEXT]",
+        "[TITLE]",
+        "United States House of Representatives elections, 1824"
+      ],
+      [
+        "Virginia 5",
+        "INCUMBENT",
+        "John Randolph"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiTableQuestions_mturk",
+        "text": "Virginia 5's incumbent Representative was John Randolph."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "hot wheels",
+        "WRITTEN_BY",
+        "regina stewart"
+      ],
+      [
+        "hot wheels",
+        "ORIGINAL_AIR_DATE",
+        "january 15, 1993"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Regina stewart wrote the episode that originally aired on January 15, 1993."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "number one with a bullet",
+        "NO._IN_SERIES",
+        "77"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The name of episode number 77 in the series is \"number one with a bullet."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "that night, a forest grew",
+        "SEASON_#",
+        "7"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The episode title for number 7 in the season is \"that night, a forest grew\"."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        " invest in love ",
+        "DIRECTED_BY",
+        "jessica yu"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The name of the episode directed by Jessica Yu was \"invest in love\"."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        " sanctuary ",
+        "WRITTEN_BY",
+        "shonda rhimes"
+      ],
+      [
+        " sanctuary ",
+        "DIRECTED_BY",
+        "stephen cragg"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Stephen cragg directed the episode written by Shonda Rhimes."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "California 1",
+        "RESULT",
+        "Re-elected"
+      ],
+      [
+        "California 1",
+        "INCUMBENT",
+        "Clarence F. Lea"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The result of the election when Clarence F. Lea was the incumbent was re- elected."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "California 5",
+        "CANDIDATES",
+        "John I. Nolan (R) 87% Thomas F. Feeley (S) 13%"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The race between john i. nolan (r) 87% thomas f. feeley (s) 13 was california%?"
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "California 6",
+        "RESULT",
+        "Re-elected as Republican Republican gain"
+      ],
+      [
+        "California 6",
+        "CANDIDATES",
+        "John A. Elston (R) 88.4% Luella Twining (S) 11.6%"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The net seat gain in the race john a. elston (r) 88.4% luella twining (s) 11.6% was re- elected as republican republican gain."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "Texas 15",
+        "INCUMBENT",
+        "Kika de la Garza"
+      ]
+    ],
+    "subtree_was_extended": false,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "Kika de la garza is the incumbent in district Texas 15."
+      }
+    ]
+  },
+  {
+    "tripleset": [
+      [
+        "the good, the bad, and the dominatrix",
+        "ORIGINAL_AIR_DATE",
+        "may10,2007"
+      ],
+      [
+        "the good, the bad, and the dominatrix",
+        "SEASON_#",
+        "23"
+      ]
+    ],
+    "subtree_was_extended": true,
+    "annotations": [
+      {
+        "source": "WikiSQL_decl_sents",
+        "text": "The 23rd show in the season originally aired on May 10, 2007."
+      }
+    ]
+  }
+]

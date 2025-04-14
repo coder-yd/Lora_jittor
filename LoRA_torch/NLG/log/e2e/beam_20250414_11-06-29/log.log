@@ -1,0 +1,45 @@
+2025-04-14 11:06:29,266 - INFO - ====================================================================================================
+2025-04-14 11:06:29,266 - INFO -         - platform : local
+2025-04-14 11:06:29,266 - INFO -         - local_rank : 0
+2025-04-14 11:06:29,266 - INFO -         - rank : 0
+2025-04-14 11:06:29,266 - INFO -         - device : cuda:0
+2025-04-14 11:06:29,266 - INFO -         - world_size : 1
+2025-04-14 11:06:29,266 - INFO -         - random_seed : 10
+2025-04-14 11:06:29,266 - INFO -         - log_dir : ./log/e2e
+2025-04-14 11:06:29,267 - INFO -         - data : ./data/e2e/test.jsonl
+2025-04-14 11:06:29,267 - INFO -         - batch_size : 1
+2025-04-14 11:06:29,267 - INFO -         - seq_len : 256
+2025-04-14 11:06:29,267 - INFO -         - eval_len : 64
+2025-04-14 11:06:29,267 - INFO -         - min_length : 0
+2025-04-14 11:06:29,267 - INFO -         - model_card : gpt2.sm
+2025-04-14 11:06:29,267 - INFO -         - init_checkpoint : ./trained_models/GPT2_SM/e2e/model.3000.pt
+2025-04-14 11:06:29,267 - INFO -         - lora_dim : 4
+2025-04-14 11:06:29,267 - INFO -         - lora_alpha : 32
+2025-04-14 11:06:29,267 - INFO -         - work_dir : ./trained_models/GPT2_SM/e2e
+2025-04-14 11:06:29,267 - INFO -         - beam : 10
+2025-04-14 11:06:29,267 - INFO -         - length_penalty : 0.8
+2025-04-14 11:06:29,267 - INFO -         - no_repeat_ngram_size : 4
+2025-04-14 11:06:29,267 - INFO -         - repetition_penalty : 1.0
+2025-04-14 11:06:29,267 - INFO -         - eos_token_id : [50256, 628]
+2025-04-14 11:06:29,267 - INFO -         - output_file : predict.3000.b10p08r4.jsonl
+2025-04-14 11:06:29,267 - INFO -         - dist : <module 'torch.distributed' from '/home/yindi/anaconda3/envs/lora_gpt2_3.7/lib/python3.7/site-packages/torch/distributed/__init__.py'>
+2025-04-14 11:06:29,267 - INFO - ====================================================================================================
+2025-04-14 11:06:31,011 - INFO - loading model pretrained weight.
+2025-04-14 11:06:32,004 - INFO - model sampling ...
+2025-04-14 11:06:33,410 - INFO - inference samples 0
+2025-04-14 11:06:47,469 - INFO - inference samples 10
+2025-04-14 11:07:01,594 - INFO - inference samples 20
+2025-04-14 11:07:15,784 - INFO - inference samples 30
+2025-04-14 11:07:30,023 - INFO - inference samples 40
+2025-04-14 11:07:44,353 - INFO - inference samples 50
+2025-04-14 11:07:58,591 - INFO - inference samples 60
+2025-04-14 11:08:12,860 - INFO - inference samples 70
+2025-04-14 11:08:27,164 - INFO - inference samples 80
+2025-04-14 11:08:41,416 - INFO - inference samples 90
+2025-04-14 11:08:55,689 - INFO - inference samples 100
+2025-04-14 11:09:09,995 - INFO - inference samples 110
+2025-04-14 11:09:24,289 - INFO - inference samples 120
+2025-04-14 11:09:38,472 - INFO - inference samples 130
+2025-04-14 11:09:52,679 - INFO - inference samples 140
+2025-04-14 11:09:52,679 - INFO - saving prediction file ./trained_models/GPT2_SM/e2e/predict.3000.b10p08r4.jsonl
+2025-04-14 11:09:52,681 - INFO - cleanup dist ...

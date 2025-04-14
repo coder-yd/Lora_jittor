@@ -1,0 +1,3277 @@
+{
+    "entries": [
+        {
+            "1": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The leader of Aarhus is Jacob Bundsgaard.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Jacob_Bundsgaard",
+                        "property": "leaderName",
+                        "subject": "Aarhus"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Jacob_Bundsgaard",
+                                "property": "leaderName",
+                                "subject": "Aarhus"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id1"
+            }
+        },
+        {
+            "2": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Aarhus Airport's runway length is 2702.0.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Aarhus Airport has a runway length of 2702.0.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "2702.0",
+                        "property": "runwayLength",
+                        "subject": "Aarhus_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"2702.0\"^^xsd:double",
+                                "property": "runwayLength",
+                                "subject": "Aarhus_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id2"
+            }
+        },
+        {
+            "3": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Adirondack Regional Airport is 507 metres above sea level.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "507",
+                        "property": "elevationAboveTheSeaLevel_(in_metres)",
+                        "subject": "Adirondack_Regional_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "507",
+                                "property": "elevationM",
+                                "subject": "Adirondack_Regional_Airport"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "\"507.0\"^^xsd:double",
+                                "property": "elevation",
+                                "subject": "Adirondack_Regional_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id3"
+            }
+        },
+        {
+            "4": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Adirondack Regional airport is located at Harrietstown, New York.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Adirondack Regional Airport is located in Harrietstown, New York.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Harrietstown,_New_York",
+                        "property": "location",
+                        "subject": "Adirondack_Regional_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Harrietstown,_New_York",
+                                "property": "location",
+                                "subject": "Adirondack_Regional_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id4"
+            }
+        },
+        {
+            "5": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Adolfo Suarez Madrid- Barajas airport is located at San Sebastian de los Reyes.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "San_Sebastián_de_los_Reyes",
+                        "property": "location",
+                        "subject": "Adolfo_Suárez_Madrid–Barajas_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "San_Sebastián_de_los_Reyes",
+                                "property": "location",
+                                "subject": "Adolfo_Suárez_Madrid–Barajas_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id5"
+            }
+        },
+        {
+            "6": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Adolfo Suárez Madrid-Barajas Airport runway name is 14L/32R.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Adolfo Suárez Madrid–Barajas Airport runway name is 14L/32R.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "14L/32R is the runway name of Adofo Suárez Madrid-Barajas Airport.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"14L/32R\"",
+                        "property": "runwayName",
+                        "subject": "Adolfo_Suárez_Madrid–Barajas_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"14L/32R\"",
+                                "property": "runwayDesignation",
+                                "subject": "Adolfo_Suárez_Madrid–Barajas_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id6"
+            }
+        },
+        {
+            "7": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "14R/32L is the name of the runway for Adolfo Suárez Madrid–Barajas Airport.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "14R/32L is the runway name of Adolfo Suárez Madrid-Barajas Airport.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"14R/32L\"",
+                        "property": "runwayName",
+                        "subject": "Adolfo_Suárez_Madrid–Barajas_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"14R/32L\"",
+                                "property": "runwayDesignation",
+                                "subject": "Adolfo_Suárez_Madrid–Barajas_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id7"
+            }
+        },
+        {
+            "8": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The operating organization for Afonso Pena International Airport is Infraero.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Afonso Pena International Airport is operated by Infraero.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Infraero",
+                        "property": "operatingOrganisation",
+                        "subject": "Afonso_Pena_International_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Infraero",
+                                "property": "operator",
+                                "subject": "Afonso_Pena_International_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id8"
+            }
+        },
+        {
+            "9": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Agra Airport is in Agra.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Agra airport is located in Agra.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Agra",
+                        "property": "location",
+                        "subject": "Agra_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Agra",
+                                "property": "location",
+                                "subject": "Agra_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id9"
+            }
+        },
+        {
+            "10": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Al-Taqaddum Air Base is 84 metres above sea level.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Al Taqaddum Air Base is 84 metres above sea level.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The elevation above the sea level (in metres) of Al-Taqaddum Air Base is 84.0.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "84.0",
+                        "property": "elevationAboveTheSeaLevel_(in_metres)",
+                        "subject": "Al-Taqaddum_Air_Base"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"83.82\"^^xsd:double",
+                                "property": "elevation",
+                                "subject": "Al-Taqaddum_Air_Base"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id10"
+            }
+        },
+        {
+            "11": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Alderney Airport serves Alderney.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Alderney Airport serves the city of Alderney.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Alderney",
+                        "property": "cityServed",
+                        "subject": "Alderney_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Alderney",
+                                "property": "city",
+                                "subject": "Alderney_Airport"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "Alderney",
+                                "property": "cityServed",
+                                "subject": "Alderney_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id11"
+            }
+        },
+        {
+            "12": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "18R/36L is the runway name at Allama Iqbal International airport.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Allama Iqbal International Airport has a runway named 18R/36L.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Allama Iqbal International Airport's runway name is \"18R/36L\".",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"18R/36L\"",
+                        "property": "runwayName",
+                        "subject": "Allama_Iqbal_International_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"18R/36L\"",
+                                "property": "runwayDesignation",
+                                "subject": "Allama_Iqbal_International_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id12"
+            }
+        },
+        {
+            "13": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The runway length of Alpena County Regional Airport is 1,533.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The runway length of Alpena County Regional airport is 1533.0.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "1533.0",
+                        "property": "runwayLength",
+                        "subject": "Alpena_County_Regional_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"1532.53\"^^xsd:double",
+                                "property": "runwayLength",
+                                "subject": "Alpena_County_Regional_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id13"
+            }
+        },
+        {
+            "14": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Alpena Country Regional Airport runway name is 1/19/.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "1/19 is the runway name of Alpena County Regional Airport.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The runway name of Alpena County Regional Airport is 1/19.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"1/19\"",
+                        "property": "runwayName",
+                        "subject": "Alpena_County_Regional_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"1/19\"",
+                                "property": "runwayDesignation",
+                                "subject": "Alpena_County_Regional_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id14"
+            }
+        },
+        {
+            "15": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Amsterdam Airport Schiphol serves the city of Amsterdam.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Amsterdam airport, Schipol serves the city of Amsterdam.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Amsterdam Airport Schuphol serves Amsterdam.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Amsterdam",
+                        "property": "cityServed",
+                        "subject": "Amsterdam_Airport_Schiphol"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Amsterdam",
+                                "property": "city",
+                                "subject": "Amsterdam_Airport_Schiphol"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "Amsterdam",
+                                "property": "cityServed",
+                                "subject": "Amsterdam_Airport_Schiphol"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id15"
+            }
+        },
+        {
+            "16": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Andrews County, Texas is country seat to Andrews, Texas.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Andrews, Texas is the country seat of Andrews County, Texas.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Andrews County, Texas has its county seat in Andrews, Texas.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Andrews,_Texas",
+                        "property": "countySeat",
+                        "subject": "Andrews_County,_Texas"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Andrews,_Texas",
+                                "property": "countySeat",
+                                "subject": "Andrews_County,_Texas"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id16"
+            }
+        },
+        {
+            "17": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Andrews Country Airport's city is served by Andrews, Texas.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Andrews County Airport serves Andrews, Texas.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Andrews County Airport serves the city of Andrews in Texas.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Andrews,_Texas",
+                        "property": "cityServed",
+                        "subject": "Andrews_County_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Andrews,_Texas",
+                                "property": "city",
+                                "subject": "Andrews_County_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id17"
+            }
+        },
+        {
+            "18": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Andrews Country Airport runway name is 11/29.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "11/29 is the runway name of Andrews County Airport.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The runway name of Andrews County Airport is 11/29.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"11/29\"",
+                        "property": "runwayName",
+                        "subject": "Andrews_County_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"11/29\"",
+                                "property": "runwayDesignation",
+                                "subject": "Andrews_County_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id18"
+            }
+        },
+        {
+            "19": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The name of the runway at Andrews County Airport is Helipad.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Helipad is the runway name of Andrews County Airport.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The runway at Andrews County Airport is called Helipad.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"Helipad\"",
+                        "property": "runwayName",
+                        "subject": "Andrews_County_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"Helipad\"",
+                                "property": "runwayDesignation",
+                                "subject": "Andrews_County_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id19"
+            }
+        },
+        {
+            "20": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Angola International Airport city served is Luanda.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Angola International Airport serves the city of Luanda.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Angola International Airport serves Luanda.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Luanda",
+                        "property": "cityServed",
+                        "subject": "Angola_International_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Luanda",
+                                "property": "city",
+                                "subject": "Angola_International_Airport"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "Luanda",
+                                "property": "cityServed",
+                                "subject": "Angola_International_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id20"
+            }
+        },
+        {
+            "21": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Ardmore Airport, New Zealand is in Auckland.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Ardmore Airport is located in Auckland, New Zealand.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Auckland",
+                        "property": "location",
+                        "subject": "Ardmore_Airport_(New_Zealand)"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Auckland",
+                                "property": "location",
+                                "subject": "Ardmore_Airport_(New_Zealand)"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id21"
+            }
+        },
+        {
+            "22": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Athens mayor is Giorgos Kaminis.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Giorgos Kaminis is the mayor of Athens.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The mayor of Athens is Giorgos Kaminis.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Giorgos_Kaminis",
+                        "property": "mayor",
+                        "subject": "Athens"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Giorgos_Kaminis",
+                                "property": "mayor",
+                                "subject": "Athens"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id22"
+            }
+        },
+        {
+            "23": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Athens International Airport is in Spata.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Athens International Airport is located in Spata.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Spata",
+                        "property": "location",
+                        "subject": "Athens_International_Airport"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Spata",
+                                "property": "location",
+                                "subject": "Athens_International_Airport"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id23"
+            }
+        },
+        {
+            "24": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Belgium language is German language.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "German is the language of Belgium.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The language spoken is Belgium is German.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "German_language",
+                        "property": "language",
+                        "subject": "Belgium"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "German_language",
+                                "property": "language",
+                                "subject": "Belgium"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id24"
+            }
+        },
+        {
+            "25": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Philippe of Belgium is the leader of Belgium.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The leader of Belgium is Philippe of Belgium.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The leader of Belgium is Phillipe of Belgium.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Philippe_of_Belgium",
+                        "property": "leaderName",
+                        "subject": "Belgium"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Philippe_of_Belgium",
+                                "property": "leaderName",
+                                "subject": "Belgium"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "Philippe_of_Belgium",
+                                "property": "leader",
+                                "subject": "Belgium"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id25"
+            }
+        },
+        {
+            "26": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The capital of Denmark is Copenhagen.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Copenhagen is the capital of Denmark.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Copenhagen",
+                        "property": "capital",
+                        "subject": "Denmark"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Copenhagen",
+                                "property": "capital",
+                                "subject": "Denmark"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id26"
+            }
+        },
+        {
+            "27": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Denmark's leader name is Lars Løkke Rasmussen.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Lars Løkke Rasmussen leads Denmark.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Lars Løkke Rasmussen is the leader of Denmark.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Lars_Løkke_Rasmussen",
+                        "property": "leaderName",
+                        "subject": "Denmark"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Lars_Løkke_Rasmussen",
+                                "property": "leader",
+                                "subject": "Denmark"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "Lars_Løkke_Rasmussen",
+                                "property": "leaderName",
+                                "subject": "Denmark"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id27"
+            }
+        },
+        {
+            "28": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Flemish region is led by the Flemish government.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Flemish Government leads the Flemish Region.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Flemish_Government",
+                        "property": "leaderName",
+                        "subject": "Flemish_Region"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Flemish_Government",
+                                "property": "leaderName",
+                                "subject": "Flemish_Region"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id28"
+            }
+        },
+        {
+            "29": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Greek is the language spoken in Greece.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The language spoken in Greece is Greek.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Greek_language",
+                        "property": "language",
+                        "subject": "Greece"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Greek_language",
+                                "property": "language",
+                                "subject": "Greece"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id29"
+            }
+        },
+        {
+            "30": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The leader of Greece is Nikos Voutsis.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Nikos_Voutsis",
+                        "property": "leaderName",
+                        "subject": "Greece"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Nikos_Voutsis",
+                                "property": "leader",
+                                "subject": "Greece"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "Nikos_Voutsis",
+                                "property": "leaderName",
+                                "subject": "Greece"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id30"
+            }
+        },
+        {
+            "31": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Harrietstown, New York is part of the United States.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Harrietstown, N.Y. is part of the U.S.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "United_States",
+                        "property": "isPartOf",
+                        "subject": "Harrietstown,_New_York"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "United_States",
+                                "property": "subdivisionName",
+                                "subject": "Harrietstown,_New_York"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id31"
+            }
+        },
+        {
+            "32": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The leader of Pakistan is Anwar Zaheer Jamali.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Pakistan has a leader called Anwar Zaheer Jamali.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Anwar_Zaheer_Jamali",
+                        "property": "leaderName",
+                        "subject": "Pakistan"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Anwar_Zaheer_Jamali",
+                                "property": "leader",
+                                "subject": "Pakistan"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "Anwar_Zaheer_Jamali",
+                                "property": "leaderName",
+                                "subject": "Pakistan"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id32"
+            }
+        },
+        {
+            "33": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Paracuellos de Jarama is part of the community of Madrid.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Community_of_Madrid",
+                        "property": "isPartOf",
+                        "subject": "Paracuellos_de_Jarama"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Community_of_Madrid",
+                                "property": "isPartOf",
+                                "subject": "Paracuellos_de_Jarama"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id33"
+            }
+        },
+        {
+            "34": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Port Authority of New York and New Jersey headquarter is Four World Trade Center.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Four World Trade Center is the headquarters of the Port Authority of New York and New Jersey.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Four_World_Trade_Center",
+                        "property": "headquarter",
+                        "subject": "Port_Authority_of_New_York_and_New_Jersey"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Four_World_Trade_Center",
+                                "property": "headquarter",
+                                "subject": "Port_Authority_of_New_York_and_New_Jersey"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id34"
+            }
+        },
+        {
+            "35": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "San Sebastián de los Reyes is in Spain.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "San Sebastian de los Reyes is located in Spain.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Spain",
+                        "property": "country",
+                        "subject": "San_Sebastián_de_los_Reyes"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Spain",
+                                "property": "country",
+                                "subject": "San_Sebastián_de_los_Reyes"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id35"
+            }
+        },
+        {
+            "36": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Saranac Lake, New York is part of the United States.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Saranac Lake, New York, is part of the United States.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "United_States",
+                        "property": "isPartOf",
+                        "subject": "Saranac_Lake,_New_York"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "United_States",
+                                "property": "subdivisionName",
+                                "subject": "Saranac_Lake,_New_York"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id36"
+            }
+        },
+        {
+            "37": {
+                "category": "Airport",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "South Jersey Transportation Authority chief is Stephen Dilts.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Stephen Dilts is the chief of the South Jersey Transportation Authority.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Stephen Dilts is the chief of South Jersey Transportation Authority.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Stephen_Dilts",
+                        "property": "chief",
+                        "subject": "South_Jersey_Transportation_Authority"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Stephen_Dilts",
+                                "property": "chief1Name",
+                                "subject": "South_Jersey_Transportation_Authority"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id37"
+            }
+        },
+        {
+            "38": {
+                "category": "Astronaut",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The United States Navy awarded the Distinguished Service Medal to Alan Shepard.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Alan Shepard was awarded the Distinguished Service Medal by the United States Navy.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Alan Shepard was awarded the Distinguished Service Medal in the United States Navy.",
+                        "xml_id": "Id3"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Alan Shepard was awarded the Distinguished Service Medal by the US Navy.",
+                        "xml_id": "Id4"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Alan Shepard was awarded the United States Navy Distinguished Service Medal.",
+                        "xml_id": "Id5"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Distinguished_Service_Medal_(United_States_Navy)",
+                        "property": "awards",
+                        "subject": "Alan_Shepard"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Distinguished_Service_Medal_(United_States_Navy)",
+                                "property": "awards",
+                                "subject": "Alan_Shepard"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id1"
+            }
+        },
+        {
+            "39": {
+                "category": "Astronaut",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Alan Shepard died in California.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "California",
+                        "property": "deathPlace",
+                        "subject": "Alan_Shepard"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "California",
+                                "property": "deathPlace",
+                                "subject": "Alan_Shepard"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id2"
+            }
+        },
+        {
+            "40": {
+                "category": "Astronaut",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "William Anders was the backup pilot on Apollo 11.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "William Anders was a backup pilot on the Apollo 11 mission.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Apollo 11's backup pilot was William Anders.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "William_Anders",
+                        "property": "backup pilot",
+                        "subject": "Apollo_11"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "William_Anders",
+                                "property": "crew2Up",
+                                "subject": "Apollo_11"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id3"
+            }
+        },
+        {
+            "41": {
+                "category": "Astronaut",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Apollo 14 was operated by NASA.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "NASA operated the Apollo 14.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Apollo 14 was operated by NASA.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "NASA",
+                        "property": "operator",
+                        "subject": "Apollo_14"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "NASA",
+                                "property": "operator",
+                                "subject": "Apollo_14"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id4"
+            }
+        },
+        {
+            "42": {
+                "category": "Astronaut",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Apollo 8 operator is NASA.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Apollo 8 is operated by Nasa.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Apollo 8 was operated by NASA.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "NASA",
+                        "property": "operator",
+                        "subject": "Apollo_8"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "NASA",
+                                "property": "operator",
+                                "subject": "Apollo_8"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id5"
+            }
+        },
+        {
+            "43": {
+                "category": "Astronaut",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Buzz Aldrin's nationality is United States.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Buzz Aldrin was a United States national.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Buzz Aldrin was an American.",
+                        "xml_id": "Id3"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Buzz Aldrin is a US national.",
+                        "xml_id": "Id4"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "United_States",
+                        "property": "nationality",
+                        "subject": "Buzz_Aldrin"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "United_States",
+                                "property": "nationality",
+                                "subject": "Buzz_Aldrin"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id6"
+            }
+        },
+        {
+            "44": {
+                "category": "Astronaut",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Elliot See was a test pilot.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Elliot See served as a test pilot.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Elliot See flew as a test pilot.",
+                        "xml_id": "Id3"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Elliot See's occupation was a test pilot.",
+                        "xml_id": "Id4"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Elliot See performed as a test pilot.",
+                        "xml_id": "Id5"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Test_pilot",
+                        "property": "occupation",
+                        "subject": "Elliot_See"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Test_pilot",
+                                "property": "occupation",
+                                "subject": "Elliot_See"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id7"
+            }
+        },
+        {
+            "45": {
+                "category": "Astronaut",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The university of texas at Austin is affiliated to the university of texas system.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "University_of_Texas_System",
+                        "property": "affiliations",
+                        "subject": "University_of_Texas_at_Austin"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "University_of_Texas_System",
+                                "property": "affiliations",
+                                "subject": "University_of_Texas_at_Austin"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id8"
+            }
+        },
+        {
+            "46": {
+                "category": "Astronaut",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The University of Texas at Austin's mascot is called Hook'em.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Hook'em is the mascot for the University of Texas at Austin.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The mascot of the University of Texas is Hook'em.",
+                        "xml_id": "Id3"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Hook 'em is the mascot of University of Texas at Austin.",
+                        "xml_id": "Id4"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Hook_'em_(mascot)",
+                        "property": "mascot",
+                        "subject": "University_of_Texas_at_Austin"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Hook_'em_(mascot)",
+                                "property": "mascot",
+                                "subject": "University_of_Texas_at_Austin"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id9"
+            }
+        },
+        {
+            "47": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "103 Colmore Row was designed by the architect, John Madin.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "103 Colmore Row was designed by the architect John Madin.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "John_Madin",
+                        "property": "architect",
+                        "subject": "103_Colmore_Row"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "John_Madin",
+                                "property": "architect",
+                                "subject": "103_Colmore_Row"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id1"
+            }
+        },
+        {
+            "48": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "103 Colmore Row is located at Colmore Row.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "103 Colmore Row is located in Colmore Row.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Colmore_Row",
+                        "property": "location",
+                        "subject": "103_Colmore_Row"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Colmore_Row",
+                                "property": "location",
+                                "subject": "103_Colmore_Row"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id2"
+            }
+        },
+        {
+            "49": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "11 Diagonal Street was completed in 1983.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "1983",
+                        "property": "completionDate",
+                        "subject": "11_Diagonal_Street"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"1983\"",
+                                "property": "buildingEndDate",
+                                "subject": "11_Diagonal_Street"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "1983",
+                                "property": "completionDate",
+                                "subject": "11_Diagonal_Street"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id3"
+            }
+        },
+        {
+            "50": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The 200 Public Square was completed in 1985.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "200 Public Square was completed in 1985.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "1985",
+                        "property": "completionDate",
+                        "subject": "200_Public_Square"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"1985\"",
+                                "property": "buildingEndDate",
+                                "subject": "200_Public_Square"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "1985",
+                                "property": "completionDate",
+                                "subject": "200_Public_Square"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id4"
+            }
+        },
+        {
+            "51": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The building at 20 Fenchurch Street was started in January 2009.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The construction of 20 Fenchurch Street began in January 2009.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"January 2009\"",
+                        "property": "buildingStartDate",
+                        "subject": "20_Fenchurch_Street"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"January 2009\"",
+                                "property": "buildingStartDate",
+                                "subject": "20_Fenchurch_Street"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "\"January 2009\"@en",
+                                "property": "startDate",
+                                "subject": "20_Fenchurch_Street"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id5"
+            }
+        },
+        {
+            "52": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "20 Fenchurch Street is located in the United Kingdom.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "20 Fenchurch Street is located within the United Kingdom.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "United_Kingdom",
+                        "property": "location",
+                        "subject": "20_Fenchurch_Street"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "United_Kingdom",
+                                "property": "location",
+                                "subject": "20_Fenchurch_Street"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id6"
+            }
+        },
+        {
+            "53": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "There are 60 floors at 300 North LaSalle.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "300 North LaSalle has 60 floors.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "60",
+                        "property": "floorCount",
+                        "subject": "300_North_LaSalle"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"60\"^^xsd:positiveInteger",
+                                "property": "floorCount",
+                                "subject": "300_North_LaSalle"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id7"
+            }
+        },
+        {
+            "54": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "HOK SVE was the architect of 3Arena.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "HOK SVE was the architect of the 3Arena.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"HOK SVE\"",
+                        "property": "architect",
+                        "subject": "3Arena"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"HOK SVE\"@en",
+                                "property": "architect",
+                                "subject": "3Arena"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id8"
+            }
+        },
+        {
+            "55": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The 3Arena is located at East Link Bridge.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The 3Arena is located on the East Link Bridge.",
+                        "xml_id": "Id2"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "3 Arena is located at East Link Bridge.",
+                        "xml_id": "Id3"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"East Link Bridge\"",
+                        "property": "location",
+                        "subject": "3Arena"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"East Link Bridge\"@en",
+                                "property": "location",
+                                "subject": "3Arena"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id9"
+            }
+        },
+        {
+            "56": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Adare Manor's building start was in 1700.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The building of the Adare Manor was started in 1700.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"1700\"",
+                        "property": "buildingStartDate",
+                        "subject": "Adare_Manor"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"(original structure); 1832 (current structure)\"",
+                                "property": "buildingStartDate",
+                                "subject": "Adare_Manor"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id10"
+            }
+        },
+        {
+            "57": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Adare Manor is located in the Republic of Ireland.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Adare Manor is in the Republic of Ireland.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Republic_of_Ireland",
+                        "property": "country",
+                        "subject": "Adare_Manor"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Republic_of_Ireland",
+                                "property": "locationCountry",
+                                "subject": "Adare_Manor"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "Republic_of_Ireland",
+                                "property": "country",
+                                "subject": "Adare_Manor"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id11"
+            }
+        },
+        {
+            "58": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Akita Museum of Art was inaugurated on 28th September 2013.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"2013-09-28\"",
+                        "property": "inaugurationDate",
+                        "subject": "Akita_Museum_of_Art"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"2013-09-28\"^^xsd:date",
+                                "property": "openingDate",
+                                "subject": "Akita_Museum_of_Art"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id12"
+            }
+        },
+        {
+            "59": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Mason School of Business are the current tenants of Alan B Miller Hall.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Mason_School_of_Business",
+                        "property": "currentTenants",
+                        "subject": "Alan_B._Miller_Hall"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Mason_School_of_Business",
+                                "property": "currentTenants",
+                                "subject": "Alan_B._Miller_Hall"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id13"
+            }
+        },
+        {
+            "60": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The architecct B V Doshi designed Amdavad Ni Gufa.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "B V Doshi is the architect who designed Amdavad ni Gufa.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "B._V._Doshi",
+                        "property": "architect",
+                        "subject": "Amdavad_ni_Gufa"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "B._V._Doshi",
+                                "property": "architect",
+                                "subject": "Amdavad_ni_Gufa"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id14"
+            }
+        },
+        {
+            "61": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Ampara Hospital is located in Sri Lanka.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Ampara Hospital is in Sri Lanka.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Sri_Lanka",
+                        "property": "country",
+                        "subject": "Ampara_Hospital"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Sri_Lanka",
+                                "property": "country",
+                                "subject": "Ampara_Hospital"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id15"
+            }
+        },
+        {
+            "62": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on \"1988-11-22\".",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places, on 22nd November 1988.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "\"1988-11-22\"",
+                        "property": "added to the National Register of Historic Places",
+                        "subject": "Asher_and_Mary_Isabelle_Richardson_House"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "\"1988-11-22\"^^xsd:date",
+                                "property": "added",
+                                "subject": "Asher_and_Mary_Isabelle_Richardson_House"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id16"
+            }
+        },
+        {
+            "63": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The Asser Levy Public Baths was built in 1904.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Asser Levy Public Baths were constructed in 1904.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "1904",
+                        "property": "yearOfConstruction",
+                        "subject": "Asser_Levy_Public_Baths"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "1904",
+                                "property": "built",
+                                "subject": "Asser_Levy_Public_Baths"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "\"1904\"^^xsd:gYear",
+                                "property": "yearOfConstruction",
+                                "subject": "Asser_Levy_Public_Baths"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id17"
+            }
+        },
+        {
+            "64": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Birmingham has the postcode area 'B'.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The B postcode area is the postal code of Birmingham.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "B_postcode_area",
+                        "property": "postalCode",
+                        "subject": "Birmingham"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "B_postcode_area",
+                                "property": "postalCode",
+                                "subject": "Birmingham"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id18"
+            }
+        },
+        {
+            "65": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Chicago is part of DuPage County in Illinois.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Chicago is part of DuPage County Illinois.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "DuPage_County,_Illinois",
+                        "property": "isPartOf",
+                        "subject": "Chicago"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "DuPage_County,_Illinois",
+                                "property": "isPartOf",
+                                "subject": "Chicago"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id19"
+            }
+        },
+        {
+            "66": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Dublin is in the Republic of Ireland.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Republic_of_Ireland",
+                        "property": "country",
+                        "subject": "Dublin"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Republic_of_Ireland",
+                                "property": "country",
+                                "subject": "Dublin"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id20"
+            }
+        },
+        {
+            "67": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Dublin is part of Leinster.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Leinster",
+                        "property": "isPartOf",
+                        "subject": "Dublin"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Leinster",
+                                "property": "isPartOf",
+                                "subject": "Dublin"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "Leinster",
+                                "property": "subdivisionName",
+                                "subject": "Dublin"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id21"
+            }
+        },
+        {
+            "68": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Sumitra Mahajan is an Indian leader.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The name of the leader in India is Sumitra Mahajan.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Sumitra_Mahajan",
+                        "property": "leaderName",
+                        "subject": "India"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Sumitra_Mahajan",
+                                "property": "leader",
+                                "subject": "India"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "Sumitra_Mahajan",
+                                "property": "leaderName",
+                                "subject": "India"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id22"
+            }
+        },
+        {
+            "69": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "toFix",
+                        "lang": "",
+                        "lex": "One of the ethnic groups in Japan in the Brazilians.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "toFix",
+                        "lang": "",
+                        "lex": "The Brazilians in Japan are an ethnic group found in Japan.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Brazilians_in_Japan",
+                        "property": "ethnicGroup",
+                        "subject": "Japan"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Brazilians_in_Japan",
+                                "property": "ethnicGroup",
+                                "subject": "Japan"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id23"
+            }
+        },
+        {
+            "70": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "The leader of Japan is Tarō Asō.",
+                        "xml_id": "Id1"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Tarō_Asō",
+                        "property": "leaderName",
+                        "subject": "Japan"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Tarō_Asō",
+                                "property": "leader",
+                                "subject": "Japan"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id24"
+            }
+        },
+        {
+            "71": {
+                "category": "Building",
+                "dbpedialinks": [],
+                "lexicalisations": [
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "Bill Marriott is the key person at Marriott International.",
+                        "xml_id": "Id1"
+                    },
+                    {
+                        "comment": "good",
+                        "lang": "",
+                        "lex": "One of the key people in Marriott International is Bill Marriott.",
+                        "xml_id": "Id2"
+                    }
+                ],
+                "links": [],
+                "modifiedtripleset": [
+                    {
+                        "object": "Bill_Marriott",
+                        "property": "keyPerson",
+                        "subject": "Marriott_International"
+                    }
+                ],
+                "originaltriplesets": {
+                    "originaltripleset": [
+                        [
+                            {
+                                "object": "Bill_Marriott",
+                                "property": "keyPeople",
+                                "subject": "Marriott_International"
+                            }
+                        ],
+                        [
+                            {
+                                "object": "Bill_Marriott",
+                                "property": "keyPerson",
+                                "subject": "Marriott_International"
+                            }
+                        ]
+                    ]
+                },
+                "shape": "NA",
+                "shape_type": "NA",
+                "size": "1",
+                "xml_id": "Id25"
+            }
+        }
+    ]
+}

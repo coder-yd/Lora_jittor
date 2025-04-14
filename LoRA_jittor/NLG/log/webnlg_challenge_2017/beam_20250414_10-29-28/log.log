@@ -1,0 +1,57 @@
+2025-04-14 10:29:28,100 - INFO - ====================================================================================================
+2025-04-14 10:29:28,100 - INFO -         - platform : local
+2025-04-14 10:29:28,100 - INFO -         - local_rank : 0
+2025-04-14 10:29:28,101 - INFO -         - rank : 0
+2025-04-14 10:29:28,101 - INFO -         - device : 0
+2025-04-14 10:29:28,101 - INFO -         - world_size : 1
+2025-04-14 10:29:28,101 - INFO -         - random_seed : 10
+2025-04-14 10:29:28,101 - INFO -         - log_dir : ./log/webnlg_challenge_2017
+2025-04-14 10:29:28,101 - INFO -         - data : ./data/webnlg_challenge_2017/test.jsonl
+2025-04-14 10:29:28,101 - INFO -         - batch_size : 1
+2025-04-14 10:29:28,101 - INFO -         - seq_len : 256
+2025-04-14 10:29:28,101 - INFO -         - eval_len : 64
+2025-04-14 10:29:28,101 - INFO -         - min_length : 0
+2025-04-14 10:29:28,101 - INFO -         - model_card : gpt2.sm
+2025-04-14 10:29:28,101 - INFO -         - init_checkpoint : ./trained_models/GPT2_SM/webnlg_challenge_2017/model.2133.pt
+2025-04-14 10:29:28,101 - INFO -         - lora_dim : 4
+2025-04-14 10:29:28,101 - INFO -         - lora_alpha : 32
+2025-04-14 10:29:28,101 - INFO -         - work_dir : ./trained_models/GPT2_SM/webnlg_challenge_2017
+2025-04-14 10:29:28,101 - INFO -         - beam : 10
+2025-04-14 10:29:28,101 - INFO -         - length_penalty : 0.8
+2025-04-14 10:29:28,101 - INFO -         - no_repeat_ngram_size : 4
+2025-04-14 10:29:28,101 - INFO -         - repetition_penalty : 1.0
+2025-04-14 10:29:28,101 - INFO -         - eos_token_id : [50256, 628]
+2025-04-14 10:29:28,101 - INFO -         - output_file : predict.2133.b10p08.jsonl
+2025-04-14 10:29:28,101 - INFO - ====================================================================================================
+2025-04-14 10:29:28,980 - INFO - loading model pretrained weight.
+2025-04-14 10:29:29,343 - INFO - model sampling ...
+2025-04-14 10:29:31,877 - INFO - inference samples 0
+2025-04-14 10:29:53,367 - INFO - inference samples 10
+2025-04-14 10:30:14,906 - INFO - inference samples 20
+2025-04-14 10:30:36,537 - INFO - inference samples 30
+2025-04-14 10:30:58,129 - INFO - inference samples 40
+2025-04-14 10:31:19,790 - INFO - inference samples 50
+2025-04-14 10:31:41,543 - INFO - inference samples 60
+2025-04-14 10:32:03,162 - INFO - inference samples 70
+2025-04-14 10:32:24,983 - INFO - inference samples 80
+2025-04-14 10:32:46,623 - INFO - inference samples 90
+2025-04-14 10:33:08,216 - INFO - inference samples 100
+2025-04-14 10:33:29,869 - INFO - inference samples 110
+2025-04-14 10:33:51,452 - INFO - inference samples 120
+2025-04-14 10:34:13,118 - INFO - inference samples 130
+2025-04-14 10:34:34,795 - INFO - inference samples 140
+2025-04-14 10:34:56,365 - INFO - inference samples 150
+2025-04-14 10:35:18,060 - INFO - inference samples 160
+2025-04-14 10:35:39,754 - INFO - inference samples 170
+2025-04-14 10:36:01,460 - INFO - inference samples 180
+2025-04-14 10:36:23,086 - INFO - inference samples 190
+2025-04-14 10:36:44,682 - INFO - inference samples 200
+2025-04-14 10:37:06,299 - INFO - inference samples 210
+2025-04-14 10:37:27,992 - INFO - inference samples 220
+2025-04-14 10:37:49,705 - INFO - inference samples 230
+2025-04-14 10:38:11,398 - INFO - inference samples 240
+2025-04-14 10:38:33,036 - INFO - inference samples 250
+2025-04-14 10:38:54,724 - INFO - inference samples 260
+2025-04-14 10:39:16,410 - INFO - inference samples 270
+2025-04-14 10:39:38,053 - INFO - inference samples 280
+2025-04-14 10:39:46,778 - INFO - saving prediction file ./trained_models/GPT2_SM/webnlg_challenge_2017/predict.2133.b10p08.jsonl

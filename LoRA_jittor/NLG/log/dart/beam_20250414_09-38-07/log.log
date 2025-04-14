@@ -1,0 +1,56 @@
+2025-04-14 09:38:07,159 - INFO - ====================================================================================================
+2025-04-14 09:38:07,159 - INFO -         - platform : local
+2025-04-14 09:38:07,159 - INFO -         - local_rank : 0
+2025-04-14 09:38:07,159 - INFO -         - rank : 0
+2025-04-14 09:38:07,159 - INFO -         - device : 0
+2025-04-14 09:38:07,159 - INFO -         - world_size : 1
+2025-04-14 09:38:07,159 - INFO -         - random_seed : 10
+2025-04-14 09:38:07,159 - INFO -         - log_dir : ./log/dart
+2025-04-14 09:38:07,159 - INFO -         - data : ./data/dart/test.jsonl
+2025-04-14 09:38:07,159 - INFO -         - batch_size : 1
+2025-04-14 09:38:07,159 - INFO -         - seq_len : 256
+2025-04-14 09:38:07,159 - INFO -         - eval_len : 64
+2025-04-14 09:38:07,159 - INFO -         - min_length : 0
+2025-04-14 09:38:07,159 - INFO -         - model_card : gpt2.sm
+2025-04-14 09:38:07,159 - INFO -         - init_checkpoint : ./trained_models/GPT2_SM/dart/model.2250.pt
+2025-04-14 09:38:07,159 - INFO -         - lora_dim : 4
+2025-04-14 09:38:07,159 - INFO -         - lora_alpha : 32
+2025-04-14 09:38:07,159 - INFO -         - work_dir : ./trained_models/GPT2_SM/dart
+2025-04-14 09:38:07,159 - INFO -         - beam : 10
+2025-04-14 09:38:07,159 - INFO -         - length_penalty : 0.8
+2025-04-14 09:38:07,159 - INFO -         - no_repeat_ngram_size : 4
+2025-04-14 09:38:07,159 - INFO -         - repetition_penalty : 1.0
+2025-04-14 09:38:07,159 - INFO -         - eos_token_id : [50256, 628]
+2025-04-14 09:38:07,159 - INFO -         - output_file : predict.2250.b10p08.jsonl
+2025-04-14 09:38:07,159 - INFO - ====================================================================================================
+2025-04-14 09:38:08,046 - INFO - loading model pretrained weight.
+2025-04-14 09:38:08,386 - INFO - model sampling ...
+2025-04-14 09:38:10,863 - INFO - inference samples 0
+2025-04-14 09:38:32,672 - INFO - inference samples 10
+2025-04-14 09:38:54,585 - INFO - inference samples 20
+2025-04-14 09:39:16,393 - INFO - inference samples 30
+2025-04-14 09:39:38,095 - INFO - inference samples 40
+2025-04-14 09:39:59,701 - INFO - inference samples 50
+2025-04-14 09:40:21,241 - INFO - inference samples 60
+2025-04-14 09:40:42,912 - INFO - inference samples 70
+2025-04-14 09:41:04,453 - INFO - inference samples 80
+2025-04-14 09:41:26,120 - INFO - inference samples 90
+2025-04-14 09:41:47,648 - INFO - inference samples 100
+2025-04-14 09:42:09,239 - INFO - inference samples 110
+2025-04-14 09:42:30,837 - INFO - inference samples 120
+2025-04-14 09:42:52,350 - INFO - inference samples 130
+2025-04-14 09:43:13,964 - INFO - inference samples 140
+2025-04-14 09:43:35,545 - INFO - inference samples 150
+2025-04-14 09:43:57,081 - INFO - inference samples 160
+2025-04-14 09:44:18,674 - INFO - inference samples 170
+2025-04-14 09:44:40,226 - INFO - inference samples 180
+2025-04-14 09:45:01,932 - INFO - inference samples 190
+2025-04-14 09:45:23,609 - INFO - inference samples 200
+2025-04-14 09:45:45,181 - INFO - inference samples 210
+2025-04-14 09:46:06,808 - INFO - inference samples 220
+2025-04-14 09:46:28,393 - INFO - inference samples 230
+2025-04-14 09:46:49,988 - INFO - inference samples 240
+2025-04-14 09:47:11,525 - INFO - inference samples 250
+2025-04-14 09:47:33,115 - INFO - inference samples 260
+2025-04-14 09:47:54,659 - INFO - inference samples 270
+2025-04-14 09:47:58,972 - INFO - saving prediction file ./trained_models/GPT2_SM/dart/predict.2250.b10p08.jsonl
