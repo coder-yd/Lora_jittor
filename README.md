@@ -750,10 +750,4 @@ ln -s /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30 libstdc++.so.6
 总共可用的显存大小为5.52GB，而模型参数占据了4.5GB显存
 
 因此本次实验使用sm版本的gpt2模型
-# Lora_jittor
-# Lora_jittor
-# Lora_jittor
-# Lora_jittor
-# Lora_jittor
-# Lora_jittor
-# Lora_jittor
+
